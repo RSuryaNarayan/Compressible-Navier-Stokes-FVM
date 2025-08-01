@@ -1,0 +1,1 @@
+make clean && make && ./gridGenCylinder inp.cylinder && ./readGrid inp.cylinder && python plotGridCells.py inp.cylinder && python plotSkewness.py inp.cylinder && python plotVolume.py inp.cylinder
