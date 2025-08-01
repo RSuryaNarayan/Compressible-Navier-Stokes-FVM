@@ -1,0 +1,11 @@
+choice=1                # 0-->coarse grid, 1-->fine grid
+nsteps=10000            # Max number of steps 
+plt_int=1000            # plotting interval
+cfl=0.8                 # CFL number
+use_flux_lim=0          # do we use flux limiters? (0 for no, 1 for yes) Choosing 1 by default uses a 2nd order accurate scheme
+                        # use cfl=0.5 or less with use_flux_lim=0 and eps=1
+eps=0                   # choose eps=0 for first order and eps=1 for second-order. Both work without flux limiters.
+                        # This argument is deprecated when use_flux_lim=1
+k=0.5                   # Value of k in flux limiter. Deprecated when use_flux_lim=0
+beta=1.0                # Value of beta in minmod function. Deprecated when use_flux_lim=0
+tol=1e-6                # Tolerance for deciding convergence in reaching state
