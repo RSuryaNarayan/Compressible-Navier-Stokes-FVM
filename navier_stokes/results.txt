@@ -1,0 +1,4854 @@
+ramp.csv
+
+ Number of faces = 19800
+ Number of faces successfully identified!
+
+ Number of cells = 9801
+Number of cells successfully identified
+dt = 3.35133e-09
+TIMESTEP=1 TIME=3.35133e-09
+converged in 2 iters!
+residual = 0
+Finished STEP = 1
+
+TIMESTEP=2 TIME=6.70267e-09
+converged in 2 iters!
+residual = 65.8054
+Finished STEP = 2
+
+TIMESTEP=3 TIME=1.0054e-08
+converged in 2 iters!
+residual = 131.537
+Finished STEP = 3
+
+TIMESTEP=4 TIME=1.34053e-08
+converged in 2 iters!
+residual = 197.196
+Finished STEP = 4
+
+TIMESTEP=5 TIME=1.67567e-08
+converged in 2 iters!
+residual = 262.781
+Finished STEP = 5
+
+TIMESTEP=6 TIME=2.0108e-08
+converged in 2 iters!
+residual = 328.293
+Finished STEP = 6
+
+TIMESTEP=7 TIME=2.34593e-08
+converged in 2 iters!
+residual = 393.732
+Finished STEP = 7
+
+TIMESTEP=8 TIME=2.68107e-08
+converged in 2 iters!
+residual = 459.098
+Finished STEP = 8
+
+TIMESTEP=9 TIME=3.0162e-08
+converged in 2 iters!
+residual = 524.391
+Finished STEP = 9
+
+TIMESTEP=10 TIME=3.35133e-08
+converged in 2 iters!
+residual = 589.611
+Finished STEP = 10
+
+TIMESTEP=11 TIME=3.68647e-08
+converged in 2 iters!
+residual = 654.758
+Finished STEP = 11
+
+TIMESTEP=12 TIME=4.0216e-08
+converged in 2 iters!
+residual = 719.833
+Finished STEP = 12
+
+TIMESTEP=13 TIME=4.35673e-08
+converged in 2 iters!
+residual = 784.835
+Finished STEP = 13
+
+TIMESTEP=14 TIME=4.69187e-08
+converged in 2 iters!
+residual = 849.764
+Finished STEP = 14
+
+TIMESTEP=15 TIME=5.027e-08
+converged in 2 iters!
+residual = 914.62
+Finished STEP = 15
+
+TIMESTEP=16 TIME=5.36213e-08
+converged in 2 iters!
+residual = 979.405
+Finished STEP = 16
+
+TIMESTEP=17 TIME=5.69727e-08
+converged in 2 iters!
+residual = 1044.12
+Finished STEP = 17
+
+TIMESTEP=18 TIME=6.0324e-08
+converged in 2 iters!
+residual = 1108.76
+Finished STEP = 18
+
+TIMESTEP=19 TIME=6.36753e-08
+converged in 2 iters!
+residual = 1173.32
+Finished STEP = 19
+
+TIMESTEP=20 TIME=6.70267e-08
+converged in 2 iters!
+residual = 1237.82
+Finished STEP = 20
+
+TIMESTEP=21 TIME=7.0378e-08
+converged in 2 iters!
+residual = 1302.24
+Finished STEP = 21
+
+TIMESTEP=22 TIME=7.37293e-08
+converged in 2 iters!
+residual = 1366.59
+Finished STEP = 22
+
+TIMESTEP=23 TIME=7.70806e-08
+converged in 2 iters!
+residual = 1430.87
+Finished STEP = 23
+
+TIMESTEP=24 TIME=8.0432e-08
+converged in 2 iters!
+residual = 1495.08
+Finished STEP = 24
+
+TIMESTEP=25 TIME=8.37833e-08
+converged in 2 iters!
+residual = 1559.21
+Finished STEP = 25
+
+TIMESTEP=26 TIME=8.71346e-08
+converged in 2 iters!
+residual = 1623.28
+Finished STEP = 26
+
+TIMESTEP=27 TIME=9.0486e-08
+converged in 2 iters!
+residual = 1687.27
+Finished STEP = 27
+
+TIMESTEP=28 TIME=9.38373e-08
+converged in 2 iters!
+residual = 1751.19
+Finished STEP = 28
+
+TIMESTEP=29 TIME=9.71886e-08
+converged in 3 iters!
+residual = 1815.04
+Finished STEP = 29
+
+TIMESTEP=30 TIME=1.0054e-07
+converged in 3 iters!
+residual = 1878.81
+Finished STEP = 30
+
+TIMESTEP=31 TIME=1.03891e-07
+converged in 3 iters!
+residual = 1942.52
+Finished STEP = 31
+
+TIMESTEP=32 TIME=1.07243e-07
+converged in 3 iters!
+residual = 2006.15
+Finished STEP = 32
+
+TIMESTEP=33 TIME=1.10594e-07
+converged in 3 iters!
+residual = 2069.72
+Finished STEP = 33
+
+TIMESTEP=34 TIME=1.13945e-07
+converged in 3 iters!
+residual = 2133.21
+Finished STEP = 34
+
+TIMESTEP=35 TIME=1.17297e-07
+converged in 3 iters!
+residual = 2196.63
+Finished STEP = 35
+
+TIMESTEP=36 TIME=1.20648e-07
+converged in 3 iters!
+residual = 2259.98
+Finished STEP = 36
+
+TIMESTEP=37 TIME=1.23999e-07
+converged in 3 iters!
+residual = 2323.26
+Finished STEP = 37
+
+TIMESTEP=38 TIME=1.27351e-07
+converged in 3 iters!
+residual = 2386.47
+Finished STEP = 38
+
+TIMESTEP=39 TIME=1.30702e-07
+converged in 3 iters!
+residual = 2449.61
+Finished STEP = 39
+
+TIMESTEP=40 TIME=1.34053e-07
+converged in 3 iters!
+residual = 2512.67
+Finished STEP = 40
+
+TIMESTEP=41 TIME=1.37405e-07
+converged in 3 iters!
+residual = 2575.67
+Finished STEP = 41
+
+TIMESTEP=42 TIME=1.40756e-07
+converged in 3 iters!
+residual = 2638.59
+Finished STEP = 42
+
+TIMESTEP=43 TIME=1.44107e-07
+converged in 3 iters!
+residual = 2701.45
+Finished STEP = 43
+
+TIMESTEP=44 TIME=1.47459e-07
+converged in 3 iters!
+residual = 2764.23
+Finished STEP = 44
+
+TIMESTEP=45 TIME=1.5081e-07
+converged in 3 iters!
+residual = 2826.95
+Finished STEP = 45
+
+TIMESTEP=46 TIME=1.54161e-07
+converged in 3 iters!
+residual = 2889.59
+Finished STEP = 46
+
+TIMESTEP=47 TIME=1.57513e-07
+converged in 3 iters!
+residual = 2952.17
+Finished STEP = 47
+
+TIMESTEP=48 TIME=1.60864e-07
+converged in 3 iters!
+residual = 3014.67
+Finished STEP = 48
+
+TIMESTEP=49 TIME=1.64215e-07
+converged in 3 iters!
+residual = 3077.1
+Finished STEP = 49
+
+TIMESTEP=50 TIME=1.67567e-07
+converged in 3 iters!
+residual = 3139.47
+Finished STEP = 50
+
+TIMESTEP=51 TIME=1.70918e-07
+converged in 3 iters!
+residual = 3201.76
+Finished STEP = 51
+
+TIMESTEP=52 TIME=1.74269e-07
+converged in 3 iters!
+residual = 3263.98
+Finished STEP = 52
+
+TIMESTEP=53 TIME=1.77621e-07
+converged in 3 iters!
+residual = 3326.14
+Finished STEP = 53
+
+TIMESTEP=54 TIME=1.80972e-07
+converged in 3 iters!
+residual = 3388.22
+Finished STEP = 54
+
+TIMESTEP=55 TIME=1.84323e-07
+converged in 3 iters!
+residual = 3450.23
+Finished STEP = 55
+
+TIMESTEP=56 TIME=1.87675e-07
+converged in 3 iters!
+residual = 3512.18
+Finished STEP = 56
+
+TIMESTEP=57 TIME=1.91026e-07
+converged in 3 iters!
+residual = 3574.05
+Finished STEP = 57
+
+TIMESTEP=58 TIME=1.94377e-07
+converged in 3 iters!
+residual = 3635.86
+Finished STEP = 58
+
+TIMESTEP=59 TIME=1.97729e-07
+converged in 3 iters!
+residual = 3697.59
+Finished STEP = 59
+
+TIMESTEP=60 TIME=2.0108e-07
+converged in 3 iters!
+residual = 3759.26
+Finished STEP = 60
+
+TIMESTEP=61 TIME=2.04431e-07
+converged in 3 iters!
+residual = 3820.86
+Finished STEP = 61
+
+TIMESTEP=62 TIME=2.07783e-07
+converged in 3 iters!
+residual = 3882.39
+Finished STEP = 62
+
+TIMESTEP=63 TIME=2.11134e-07
+converged in 3 iters!
+residual = 3943.85
+Finished STEP = 63
+
+TIMESTEP=64 TIME=2.14485e-07
+converged in 3 iters!
+residual = 4005.24
+Finished STEP = 64
+
+TIMESTEP=65 TIME=2.17837e-07
+converged in 3 iters!
+residual = 4066.56
+Finished STEP = 65
+
+TIMESTEP=66 TIME=2.21188e-07
+converged in 3 iters!
+residual = 4127.81
+Finished STEP = 66
+
+TIMESTEP=67 TIME=2.24539e-07
+converged in 3 iters!
+residual = 4188.99
+Finished STEP = 67
+
+TIMESTEP=68 TIME=2.27891e-07
+converged in 3 iters!
+residual = 4250.11
+Finished STEP = 68
+
+TIMESTEP=69 TIME=2.31242e-07
+converged in 3 iters!
+residual = 4311.15
+Finished STEP = 69
+
+TIMESTEP=70 TIME=2.34593e-07
+converged in 3 iters!
+residual = 4372.13
+Finished STEP = 70
+
+TIMESTEP=71 TIME=2.37945e-07
+converged in 3 iters!
+residual = 4433.04
+Finished STEP = 71
+
+TIMESTEP=72 TIME=2.41296e-07
+converged in 3 iters!
+residual = 4493.88
+Finished STEP = 72
+
+TIMESTEP=73 TIME=2.44647e-07
+converged in 3 iters!
+residual = 4554.65
+Finished STEP = 73
+
+TIMESTEP=74 TIME=2.47999e-07
+converged in 3 iters!
+residual = 4615.36
+Finished STEP = 74
+
+TIMESTEP=75 TIME=2.5135e-07
+converged in 3 iters!
+residual = 4675.99
+Finished STEP = 75
+
+TIMESTEP=76 TIME=2.54701e-07
+converged in 3 iters!
+residual = 4736.56
+Finished STEP = 76
+
+TIMESTEP=77 TIME=2.58053e-07
+converged in 3 iters!
+residual = 4797.06
+Finished STEP = 77
+
+TIMESTEP=78 TIME=2.61404e-07
+converged in 3 iters!
+residual = 4857.49
+Finished STEP = 78
+
+TIMESTEP=79 TIME=2.64755e-07
+converged in 3 iters!
+residual = 4917.85
+Finished STEP = 79
+
+TIMESTEP=80 TIME=2.68107e-07
+converged in 3 iters!
+residual = 4978.14
+Finished STEP = 80
+
+TIMESTEP=81 TIME=2.71458e-07
+converged in 3 iters!
+residual = 5038.37
+Finished STEP = 81
+
+TIMESTEP=82 TIME=2.74809e-07
+converged in 3 iters!
+residual = 5098.53
+Finished STEP = 82
+
+TIMESTEP=83 TIME=2.78161e-07
+converged in 3 iters!
+residual = 5158.62
+Finished STEP = 83
+
+TIMESTEP=84 TIME=2.81512e-07
+converged in 3 iters!
+residual = 5218.64
+Finished STEP = 84
+
+TIMESTEP=85 TIME=2.84863e-07
+converged in 3 iters!
+residual = 5278.6
+Finished STEP = 85
+
+TIMESTEP=86 TIME=2.88215e-07
+converged in 3 iters!
+residual = 5338.49
+Finished STEP = 86
+
+TIMESTEP=87 TIME=2.91566e-07
+converged in 3 iters!
+residual = 5398.31
+Finished STEP = 87
+
+TIMESTEP=88 TIME=2.94917e-07
+converged in 3 iters!
+residual = 5458.06
+Finished STEP = 88
+
+TIMESTEP=89 TIME=2.98269e-07
+converged in 3 iters!
+residual = 5517.75
+Finished STEP = 89
+
+TIMESTEP=90 TIME=3.0162e-07
+converged in 3 iters!
+residual = 5577.37
+Finished STEP = 90
+
+TIMESTEP=91 TIME=3.04971e-07
+converged in 3 iters!
+residual = 5636.92
+Finished STEP = 91
+
+TIMESTEP=92 TIME=3.08323e-07
+converged in 3 iters!
+residual = 5696.4
+Finished STEP = 92
+
+TIMESTEP=93 TIME=3.11674e-07
+converged in 3 iters!
+residual = 5755.82
+Finished STEP = 93
+
+TIMESTEP=94 TIME=3.15025e-07
+converged in 3 iters!
+residual = 5815.17
+Finished STEP = 94
+
+TIMESTEP=95 TIME=3.18377e-07
+converged in 3 iters!
+residual = 5874.45
+Finished STEP = 95
+
+TIMESTEP=96 TIME=3.21728e-07
+converged in 3 iters!
+residual = 5933.67
+Finished STEP = 96
+
+TIMESTEP=97 TIME=3.25079e-07
+converged in 3 iters!
+residual = 5992.82
+Finished STEP = 97
+
+TIMESTEP=98 TIME=3.28431e-07
+converged in 3 iters!
+residual = 6051.9
+Finished STEP = 98
+
+TIMESTEP=99 TIME=3.31782e-07
+converged in 3 iters!
+residual = 6110.92
+Finished STEP = 99
+
+TIMESTEP=100 TIME=3.35133e-07
+converged in 3 iters!
+residual = 6169.87
+Finished STEP = 100
+
+TIMESTEP=101 TIME=3.38485e-07
+converged in 3 iters!
+residual = 6228.75
+Finished STEP = 101
+
+TIMESTEP=102 TIME=3.41836e-07
+converged in 3 iters!
+residual = 6287.56
+Finished STEP = 102
+
+TIMESTEP=103 TIME=3.45187e-07
+converged in 3 iters!
+residual = 6346.31
+Finished STEP = 103
+
+TIMESTEP=104 TIME=3.48539e-07
+converged in 3 iters!
+residual = 6405
+Finished STEP = 104
+
+TIMESTEP=105 TIME=3.5189e-07
+converged in 3 iters!
+residual = 6463.61
+Finished STEP = 105
+
+TIMESTEP=106 TIME=3.55241e-07
+converged in 3 iters!
+residual = 6522.16
+Finished STEP = 106
+
+TIMESTEP=107 TIME=3.58593e-07
+converged in 3 iters!
+residual = 6580.65
+Finished STEP = 107
+
+TIMESTEP=108 TIME=3.61944e-07
+converged in 3 iters!
+residual = 6639.07
+Finished STEP = 108
+
+TIMESTEP=109 TIME=3.65295e-07
+converged in 3 iters!
+residual = 6697.42
+Finished STEP = 109
+
+TIMESTEP=110 TIME=3.68647e-07
+converged in 3 iters!
+residual = 6755.71
+Finished STEP = 110
+
+TIMESTEP=111 TIME=3.71998e-07
+converged in 3 iters!
+residual = 6813.93
+Finished STEP = 111
+
+TIMESTEP=112 TIME=3.75349e-07
+converged in 3 iters!
+residual = 6872.08
+Finished STEP = 112
+
+TIMESTEP=113 TIME=3.78701e-07
+converged in 3 iters!
+residual = 6930.17
+Finished STEP = 113
+
+TIMESTEP=114 TIME=3.82052e-07
+converged in 3 iters!
+residual = 6988.19
+Finished STEP = 114
+
+TIMESTEP=115 TIME=3.85403e-07
+converged in 3 iters!
+residual = 7046.15
+Finished STEP = 115
+
+TIMESTEP=116 TIME=3.88755e-07
+converged in 3 iters!
+residual = 7104.04
+Finished STEP = 116
+
+TIMESTEP=117 TIME=3.92106e-07
+converged in 3 iters!
+residual = 7161.87
+Finished STEP = 117
+
+TIMESTEP=118 TIME=3.95457e-07
+converged in 3 iters!
+residual = 7219.63
+Finished STEP = 118
+
+TIMESTEP=119 TIME=3.98809e-07
+converged in 3 iters!
+residual = 7277.32
+Finished STEP = 119
+
+TIMESTEP=120 TIME=4.0216e-07
+converged in 3 iters!
+residual = 7334.95
+Finished STEP = 120
+
+TIMESTEP=121 TIME=4.05511e-07
+converged in 3 iters!
+residual = 7392.52
+Finished STEP = 121
+
+TIMESTEP=122 TIME=4.08863e-07
+converged in 3 iters!
+residual = 7450.02
+Finished STEP = 122
+
+TIMESTEP=123 TIME=4.12214e-07
+converged in 3 iters!
+residual = 7507.45
+Finished STEP = 123
+
+TIMESTEP=124 TIME=4.15565e-07
+converged in 3 iters!
+residual = 7564.82
+Finished STEP = 124
+
+TIMESTEP=125 TIME=4.18917e-07
+converged in 3 iters!
+residual = 7622.13
+Finished STEP = 125
+
+TIMESTEP=126 TIME=4.22268e-07
+converged in 3 iters!
+residual = 7679.36
+Finished STEP = 126
+
+TIMESTEP=127 TIME=4.25619e-07
+converged in 3 iters!
+residual = 7736.54
+Finished STEP = 127
+
+TIMESTEP=128 TIME=4.28971e-07
+converged in 3 iters!
+residual = 7793.65
+Finished STEP = 128
+
+TIMESTEP=129 TIME=4.32322e-07
+converged in 3 iters!
+residual = 7850.69
+Finished STEP = 129
+
+TIMESTEP=130 TIME=4.35673e-07
+converged in 3 iters!
+residual = 7907.67
+Finished STEP = 130
+
+TIMESTEP=131 TIME=4.39025e-07
+converged in 3 iters!
+residual = 7964.59
+Finished STEP = 131
+
+TIMESTEP=132 TIME=4.42376e-07
+converged in 3 iters!
+residual = 8021.44
+Finished STEP = 132
+
+TIMESTEP=133 TIME=4.45727e-07
+converged in 3 iters!
+residual = 8078.23
+Finished STEP = 133
+
+TIMESTEP=134 TIME=4.49079e-07
+converged in 3 iters!
+residual = 8134.95
+Finished STEP = 134
+
+TIMESTEP=135 TIME=4.5243e-07
+converged in 3 iters!
+residual = 8191.6
+Finished STEP = 135
+
+TIMESTEP=136 TIME=4.55781e-07
+converged in 3 iters!
+residual = 8248.2
+Finished STEP = 136
+
+TIMESTEP=137 TIME=4.59133e-07
+converged in 3 iters!
+residual = 8304.73
+Finished STEP = 137
+
+TIMESTEP=138 TIME=4.62484e-07
+converged in 3 iters!
+residual = 8361.19
+Finished STEP = 138
+
+TIMESTEP=139 TIME=4.65835e-07
+converged in 3 iters!
+residual = 8417.59
+Finished STEP = 139
+
+TIMESTEP=140 TIME=4.69187e-07
+converged in 3 iters!
+residual = 8473.93
+Finished STEP = 140
+
+TIMESTEP=141 TIME=4.72538e-07
+converged in 3 iters!
+residual = 8530.2
+Finished STEP = 141
+
+TIMESTEP=142 TIME=4.75889e-07
+converged in 3 iters!
+residual = 8586.41
+Finished STEP = 142
+
+TIMESTEP=143 TIME=4.79241e-07
+converged in 3 iters!
+residual = 8642.55
+Finished STEP = 143
+
+TIMESTEP=144 TIME=4.82592e-07
+converged in 3 iters!
+residual = 8698.63
+Finished STEP = 144
+
+TIMESTEP=145 TIME=4.85943e-07
+converged in 3 iters!
+residual = 8754.65
+Finished STEP = 145
+
+TIMESTEP=146 TIME=4.89295e-07
+converged in 3 iters!
+residual = 8810.6
+Finished STEP = 146
+
+TIMESTEP=147 TIME=4.92646e-07
+converged in 3 iters!
+residual = 8866.49
+Finished STEP = 147
+
+TIMESTEP=148 TIME=4.95997e-07
+converged in 3 iters!
+residual = 8922.32
+Finished STEP = 148
+
+TIMESTEP=149 TIME=4.99349e-07
+converged in 3 iters!
+residual = 8978.08
+Finished STEP = 149
+
+TIMESTEP=150 TIME=5.027e-07
+converged in 3 iters!
+residual = 9033.78
+Finished STEP = 150
+
+TIMESTEP=151 TIME=5.06051e-07
+converged in 3 iters!
+residual = 9089.41
+Finished STEP = 151
+
+TIMESTEP=152 TIME=5.09403e-07
+converged in 3 iters!
+residual = 9144.98
+Finished STEP = 152
+
+TIMESTEP=153 TIME=5.12754e-07
+converged in 3 iters!
+residual = 9200.49
+Finished STEP = 153
+
+TIMESTEP=154 TIME=5.16105e-07
+converged in 3 iters!
+residual = 9255.94
+Finished STEP = 154
+
+TIMESTEP=155 TIME=5.19457e-07
+converged in 3 iters!
+residual = 9311.32
+Finished STEP = 155
+
+TIMESTEP=156 TIME=5.22808e-07
+converged in 3 iters!
+residual = 9366.64
+Finished STEP = 156
+
+TIMESTEP=157 TIME=5.26159e-07
+converged in 3 iters!
+residual = 9421.89
+Finished STEP = 157
+
+TIMESTEP=158 TIME=5.29511e-07
+converged in 3 iters!
+residual = 9477.09
+Finished STEP = 158
+
+TIMESTEP=159 TIME=5.32862e-07
+converged in 3 iters!
+residual = 9532.22
+Finished STEP = 159
+
+TIMESTEP=160 TIME=5.36213e-07
+converged in 3 iters!
+residual = 9587.28
+Finished STEP = 160
+
+TIMESTEP=161 TIME=5.39565e-07
+converged in 3 iters!
+residual = 9642.29
+Finished STEP = 161
+
+TIMESTEP=162 TIME=5.42916e-07
+converged in 3 iters!
+residual = 9697.23
+Finished STEP = 162
+
+TIMESTEP=163 TIME=5.46267e-07
+converged in 3 iters!
+residual = 9752.11
+Finished STEP = 163
+
+TIMESTEP=164 TIME=5.49619e-07
+converged in 3 iters!
+residual = 9806.93
+Finished STEP = 164
+
+TIMESTEP=165 TIME=5.5297e-07
+converged in 3 iters!
+residual = 9861.68
+Finished STEP = 165
+
+TIMESTEP=166 TIME=5.56321e-07
+converged in 3 iters!
+residual = 9916.37
+Finished STEP = 166
+
+TIMESTEP=167 TIME=5.59673e-07
+converged in 3 iters!
+residual = 9971
+Finished STEP = 167
+
+TIMESTEP=168 TIME=5.63024e-07
+converged in 3 iters!
+residual = 10025.6
+Finished STEP = 168
+
+TIMESTEP=169 TIME=5.66375e-07
+converged in 3 iters!
+residual = 10080.1
+Finished STEP = 169
+
+TIMESTEP=170 TIME=5.69727e-07
+converged in 3 iters!
+residual = 10134.5
+Finished STEP = 170
+
+TIMESTEP=171 TIME=5.73078e-07
+converged in 3 iters!
+residual = 10188.9
+Finished STEP = 171
+
+TIMESTEP=172 TIME=5.76429e-07
+converged in 3 iters!
+residual = 10243.2
+Finished STEP = 172
+
+TIMESTEP=173 TIME=5.79781e-07
+converged in 3 iters!
+residual = 10297.5
+Finished STEP = 173
+
+TIMESTEP=174 TIME=5.83132e-07
+converged in 3 iters!
+residual = 10351.7
+Finished STEP = 174
+
+TIMESTEP=175 TIME=5.86483e-07
+converged in 3 iters!
+residual = 10405.8
+Finished STEP = 175
+
+TIMESTEP=176 TIME=5.89835e-07
+converged in 3 iters!
+residual = 10459.9
+Finished STEP = 176
+
+TIMESTEP=177 TIME=5.93186e-07
+converged in 3 iters!
+residual = 10513.9
+Finished STEP = 177
+
+TIMESTEP=178 TIME=5.96537e-07
+converged in 3 iters!
+residual = 10567.8
+Finished STEP = 178
+
+TIMESTEP=179 TIME=5.99889e-07
+converged in 3 iters!
+residual = 10621.7
+Finished STEP = 179
+
+TIMESTEP=180 TIME=6.0324e-07
+converged in 3 iters!
+residual = 10675.5
+Finished STEP = 180
+
+TIMESTEP=181 TIME=6.06591e-07
+converged in 3 iters!
+residual = 10729.3
+Finished STEP = 181
+
+TIMESTEP=182 TIME=6.09943e-07
+converged in 3 iters!
+residual = 10783
+Finished STEP = 182
+
+TIMESTEP=183 TIME=6.13294e-07
+converged in 3 iters!
+residual = 10836.6
+Finished STEP = 183
+
+TIMESTEP=184 TIME=6.16645e-07
+converged in 3 iters!
+residual = 10890.2
+Finished STEP = 184
+
+TIMESTEP=185 TIME=6.19997e-07
+converged in 3 iters!
+residual = 10943.7
+Finished STEP = 185
+
+TIMESTEP=186 TIME=6.23348e-07
+converged in 3 iters!
+residual = 10997.2
+Finished STEP = 186
+
+TIMESTEP=187 TIME=6.26699e-07
+converged in 3 iters!
+residual = 11050.5
+Finished STEP = 187
+
+TIMESTEP=188 TIME=6.30051e-07
+converged in 3 iters!
+residual = 11103.9
+Finished STEP = 188
+
+TIMESTEP=189 TIME=6.33402e-07
+converged in 3 iters!
+residual = 11157.2
+Finished STEP = 189
+
+TIMESTEP=190 TIME=6.36753e-07
+converged in 3 iters!
+residual = 11210.4
+Finished STEP = 190
+
+TIMESTEP=191 TIME=6.40105e-07
+converged in 3 iters!
+residual = 11263.5
+Finished STEP = 191
+
+TIMESTEP=192 TIME=6.43456e-07
+converged in 3 iters!
+residual = 11316.6
+Finished STEP = 192
+
+TIMESTEP=193 TIME=6.46807e-07
+converged in 3 iters!
+residual = 11369.6
+Finished STEP = 193
+
+TIMESTEP=194 TIME=6.50159e-07
+converged in 3 iters!
+residual = 11422.6
+Finished STEP = 194
+
+TIMESTEP=195 TIME=6.5351e-07
+converged in 3 iters!
+residual = 11475.5
+Finished STEP = 195
+
+TIMESTEP=196 TIME=6.56861e-07
+converged in 3 iters!
+residual = 11528.3
+Finished STEP = 196
+
+TIMESTEP=197 TIME=6.60213e-07
+converged in 3 iters!
+residual = 11581.1
+Finished STEP = 197
+
+TIMESTEP=198 TIME=6.63564e-07
+converged in 3 iters!
+residual = 11633.8
+Finished STEP = 198
+
+TIMESTEP=199 TIME=6.66915e-07
+converged in 3 iters!
+residual = 11686.5
+Finished STEP = 199
+
+TIMESTEP=200 TIME=6.70267e-07
+converged in 3 iters!
+residual = 11739.1
+Finished STEP = 200
+
+TIMESTEP=201 TIME=6.73618e-07
+converged in 3 iters!
+residual = 11791.6
+Finished STEP = 201
+
+TIMESTEP=202 TIME=6.76969e-07
+converged in 3 iters!
+residual = 11844.1
+Finished STEP = 202
+
+TIMESTEP=203 TIME=6.80321e-07
+converged in 3 iters!
+residual = 11896.5
+Finished STEP = 203
+
+TIMESTEP=204 TIME=6.83672e-07
+converged in 3 iters!
+residual = 11948.9
+Finished STEP = 204
+
+TIMESTEP=205 TIME=6.87023e-07
+converged in 3 iters!
+residual = 12001.2
+Finished STEP = 205
+
+TIMESTEP=206 TIME=6.90374e-07
+converged in 3 iters!
+residual = 12053.4
+Finished STEP = 206
+
+TIMESTEP=207 TIME=6.93726e-07
+converged in 3 iters!
+residual = 12105.6
+Finished STEP = 207
+
+TIMESTEP=208 TIME=6.97077e-07
+converged in 3 iters!
+residual = 12157.7
+Finished STEP = 208
+
+TIMESTEP=209 TIME=7.00428e-07
+converged in 3 iters!
+residual = 12209.8
+Finished STEP = 209
+
+TIMESTEP=210 TIME=7.0378e-07
+converged in 3 iters!
+residual = 12261.8
+Finished STEP = 210
+
+TIMESTEP=211 TIME=7.07131e-07
+converged in 3 iters!
+residual = 12313.7
+Finished STEP = 211
+
+TIMESTEP=212 TIME=7.10482e-07
+converged in 3 iters!
+residual = 12365.6
+Finished STEP = 212
+
+TIMESTEP=213 TIME=7.13834e-07
+converged in 3 iters!
+residual = 12417.4
+Finished STEP = 213
+
+TIMESTEP=214 TIME=7.17185e-07
+converged in 3 iters!
+residual = 12469.2
+Finished STEP = 214
+
+TIMESTEP=215 TIME=7.20536e-07
+converged in 3 iters!
+residual = 12520.9
+Finished STEP = 215
+
+TIMESTEP=216 TIME=7.23888e-07
+converged in 3 iters!
+residual = 12572.5
+Finished STEP = 216
+
+TIMESTEP=217 TIME=7.27239e-07
+converged in 3 iters!
+residual = 12624.1
+Finished STEP = 217
+
+TIMESTEP=218 TIME=7.3059e-07
+converged in 3 iters!
+residual = 12675.6
+Finished STEP = 218
+
+TIMESTEP=219 TIME=7.33942e-07
+converged in 3 iters!
+residual = 12727.1
+Finished STEP = 219
+
+TIMESTEP=220 TIME=7.37293e-07
+converged in 3 iters!
+residual = 12778.5
+Finished STEP = 220
+
+TIMESTEP=221 TIME=7.40644e-07
+converged in 3 iters!
+residual = 12829.8
+Finished STEP = 221
+
+TIMESTEP=222 TIME=7.43996e-07
+converged in 3 iters!
+residual = 12881.1
+Finished STEP = 222
+
+TIMESTEP=223 TIME=7.47347e-07
+converged in 3 iters!
+residual = 12932.3
+Finished STEP = 223
+
+TIMESTEP=224 TIME=7.50698e-07
+converged in 3 iters!
+residual = 12983.5
+Finished STEP = 224
+
+TIMESTEP=225 TIME=7.5405e-07
+converged in 3 iters!
+residual = 13034.6
+Finished STEP = 225
+
+TIMESTEP=226 TIME=7.57401e-07
+converged in 3 iters!
+residual = 13085.7
+Finished STEP = 226
+
+TIMESTEP=227 TIME=7.60752e-07
+converged in 3 iters!
+residual = 13136.7
+Finished STEP = 227
+
+TIMESTEP=228 TIME=7.64104e-07
+converged in 3 iters!
+residual = 13187.6
+Finished STEP = 228
+
+TIMESTEP=229 TIME=7.67455e-07
+converged in 3 iters!
+residual = 13238.5
+Finished STEP = 229
+
+TIMESTEP=230 TIME=7.70806e-07
+converged in 3 iters!
+residual = 13289.3
+Finished STEP = 230
+
+TIMESTEP=231 TIME=7.74158e-07
+converged in 3 iters!
+residual = 13340
+Finished STEP = 231
+
+TIMESTEP=232 TIME=7.77509e-07
+converged in 3 iters!
+residual = 13390.7
+Finished STEP = 232
+
+TIMESTEP=233 TIME=7.8086e-07
+converged in 3 iters!
+residual = 13441.3
+Finished STEP = 233
+
+TIMESTEP=234 TIME=7.84212e-07
+converged in 3 iters!
+residual = 13491.9
+Finished STEP = 234
+
+TIMESTEP=235 TIME=7.87563e-07
+converged in 3 iters!
+residual = 13542.4
+Finished STEP = 235
+
+TIMESTEP=236 TIME=7.90914e-07
+converged in 3 iters!
+residual = 13592.9
+Finished STEP = 236
+
+TIMESTEP=237 TIME=7.94266e-07
+converged in 3 iters!
+residual = 13643.3
+Finished STEP = 237
+
+TIMESTEP=238 TIME=7.97617e-07
+converged in 3 iters!
+residual = 13693.6
+Finished STEP = 238
+
+TIMESTEP=239 TIME=8.00968e-07
+converged in 3 iters!
+residual = 13743.9
+Finished STEP = 239
+
+TIMESTEP=240 TIME=8.0432e-07
+converged in 3 iters!
+residual = 13794.2
+Finished STEP = 240
+
+TIMESTEP=241 TIME=8.07671e-07
+converged in 3 iters!
+residual = 13844.3
+Finished STEP = 241
+
+TIMESTEP=242 TIME=8.11022e-07
+converged in 3 iters!
+residual = 13894.4
+Finished STEP = 242
+
+TIMESTEP=243 TIME=8.14374e-07
+converged in 3 iters!
+residual = 13944.5
+Finished STEP = 243
+
+TIMESTEP=244 TIME=8.17725e-07
+converged in 3 iters!
+residual = 13994.5
+Finished STEP = 244
+
+TIMESTEP=245 TIME=8.21076e-07
+converged in 3 iters!
+residual = 14044.4
+Finished STEP = 245
+
+TIMESTEP=246 TIME=8.24428e-07
+converged in 3 iters!
+residual = 14094.3
+Finished STEP = 246
+
+TIMESTEP=247 TIME=8.27779e-07
+converged in 3 iters!
+residual = 14144.1
+Finished STEP = 247
+
+TIMESTEP=248 TIME=8.3113e-07
+converged in 3 iters!
+residual = 14193.9
+Finished STEP = 248
+
+TIMESTEP=249 TIME=8.34482e-07
+converged in 3 iters!
+residual = 14243.6
+Finished STEP = 249
+
+TIMESTEP=250 TIME=8.37833e-07
+converged in 3 iters!
+residual = 14293.2
+Finished STEP = 250
+
+TIMESTEP=251 TIME=8.41184e-07
+converged in 3 iters!
+residual = 14342.8
+Finished STEP = 251
+
+TIMESTEP=252 TIME=8.44536e-07
+converged in 3 iters!
+residual = 14392.3
+Finished STEP = 252
+
+TIMESTEP=253 TIME=8.47887e-07
+converged in 3 iters!
+residual = 14441.8
+Finished STEP = 253
+
+TIMESTEP=254 TIME=8.51238e-07
+converged in 3 iters!
+residual = 14491.2
+Finished STEP = 254
+
+TIMESTEP=255 TIME=8.5459e-07
+converged in 3 iters!
+residual = 14540.6
+Finished STEP = 255
+
+TIMESTEP=256 TIME=8.57941e-07
+converged in 3 iters!
+residual = 14589.9
+Finished STEP = 256
+
+TIMESTEP=257 TIME=8.61292e-07
+converged in 3 iters!
+residual = 14639.1
+Finished STEP = 257
+
+TIMESTEP=258 TIME=8.64644e-07
+converged in 3 iters!
+residual = 14688.3
+Finished STEP = 258
+
+TIMESTEP=259 TIME=8.67995e-07
+converged in 3 iters!
+residual = 14737.4
+Finished STEP = 259
+
+TIMESTEP=260 TIME=8.71346e-07
+converged in 3 iters!
+residual = 14786.5
+Finished STEP = 260
+
+TIMESTEP=261 TIME=8.74698e-07
+converged in 3 iters!
+residual = 14835.5
+Finished STEP = 261
+
+TIMESTEP=262 TIME=8.78049e-07
+converged in 3 iters!
+residual = 14884.5
+Finished STEP = 262
+
+TIMESTEP=263 TIME=8.814e-07
+converged in 3 iters!
+residual = 14933.4
+Finished STEP = 263
+
+TIMESTEP=264 TIME=8.84752e-07
+converged in 3 iters!
+residual = 14982.2
+Finished STEP = 264
+
+TIMESTEP=265 TIME=8.88103e-07
+converged in 3 iters!
+residual = 15031
+Finished STEP = 265
+
+TIMESTEP=266 TIME=8.91454e-07
+converged in 3 iters!
+residual = 15079.7
+Finished STEP = 266
+
+TIMESTEP=267 TIME=8.94806e-07
+converged in 3 iters!
+residual = 15128.4
+Finished STEP = 267
+
+TIMESTEP=268 TIME=8.98157e-07
+converged in 3 iters!
+residual = 15177
+Finished STEP = 268
+
+TIMESTEP=269 TIME=9.01508e-07
+converged in 3 iters!
+residual = 15225.6
+Finished STEP = 269
+
+TIMESTEP=270 TIME=9.0486e-07
+converged in 3 iters!
+residual = 15274.1
+Finished STEP = 270
+
+TIMESTEP=271 TIME=9.08211e-07
+converged in 3 iters!
+residual = 15322.5
+Finished STEP = 271
+
+TIMESTEP=272 TIME=9.11562e-07
+converged in 3 iters!
+residual = 15370.9
+Finished STEP = 272
+
+TIMESTEP=273 TIME=9.14914e-07
+converged in 3 iters!
+residual = 15419.3
+Finished STEP = 273
+
+TIMESTEP=274 TIME=9.18265e-07
+converged in 3 iters!
+residual = 15467.5
+Finished STEP = 274
+
+TIMESTEP=275 TIME=9.21616e-07
+converged in 3 iters!
+residual = 15515.8
+Finished STEP = 275
+
+TIMESTEP=276 TIME=9.24968e-07
+converged in 3 iters!
+residual = 15563.9
+Finished STEP = 276
+
+TIMESTEP=277 TIME=9.28319e-07
+converged in 3 iters!
+residual = 15612
+Finished STEP = 277
+
+TIMESTEP=278 TIME=9.3167e-07
+converged in 3 iters!
+residual = 15660.1
+Finished STEP = 278
+
+TIMESTEP=279 TIME=9.35022e-07
+converged in 3 iters!
+residual = 15708.1
+Finished STEP = 279
+
+TIMESTEP=280 TIME=9.38373e-07
+converged in 3 iters!
+residual = 15756
+Finished STEP = 280
+
+TIMESTEP=281 TIME=9.41724e-07
+converged in 3 iters!
+residual = 15803.9
+Finished STEP = 281
+
+TIMESTEP=282 TIME=9.45076e-07
+converged in 3 iters!
+residual = 15851.7
+Finished STEP = 282
+
+TIMESTEP=283 TIME=9.48427e-07
+converged in 3 iters!
+residual = 15899.5
+Finished STEP = 283
+
+TIMESTEP=284 TIME=9.51778e-07
+converged in 3 iters!
+residual = 15947.2
+Finished STEP = 284
+
+TIMESTEP=285 TIME=9.5513e-07
+converged in 3 iters!
+residual = 15994.9
+Finished STEP = 285
+
+TIMESTEP=286 TIME=9.58481e-07
+converged in 3 iters!
+residual = 16042.5
+Finished STEP = 286
+
+TIMESTEP=287 TIME=9.61832e-07
+converged in 3 iters!
+residual = 16090
+Finished STEP = 287
+
+TIMESTEP=288 TIME=9.65184e-07
+converged in 3 iters!
+residual = 16137.5
+Finished STEP = 288
+
+TIMESTEP=289 TIME=9.68535e-07
+converged in 3 iters!
+residual = 16184.9
+Finished STEP = 289
+
+TIMESTEP=290 TIME=9.71886e-07
+converged in 3 iters!
+residual = 16232.3
+Finished STEP = 290
+
+TIMESTEP=291 TIME=9.75238e-07
+converged in 3 iters!
+residual = 16279.6
+Finished STEP = 291
+
+TIMESTEP=292 TIME=9.78589e-07
+converged in 3 iters!
+residual = 16326.9
+Finished STEP = 292
+
+TIMESTEP=293 TIME=9.8194e-07
+converged in 3 iters!
+residual = 16374.1
+Finished STEP = 293
+
+TIMESTEP=294 TIME=9.85292e-07
+converged in 3 iters!
+residual = 16421.3
+Finished STEP = 294
+
+TIMESTEP=295 TIME=9.88643e-07
+converged in 3 iters!
+residual = 16468.4
+Finished STEP = 295
+
+TIMESTEP=296 TIME=9.91994e-07
+converged in 3 iters!
+residual = 16515.4
+Finished STEP = 296
+
+TIMESTEP=297 TIME=9.95346e-07
+converged in 3 iters!
+residual = 16562.4
+Finished STEP = 297
+
+TIMESTEP=298 TIME=9.98697e-07
+converged in 3 iters!
+residual = 16609.4
+Finished STEP = 298
+
+TIMESTEP=299 TIME=1.00205e-06
+converged in 3 iters!
+residual = 16656.2
+Finished STEP = 299
+
+TIMESTEP=300 TIME=1.0054e-06
+converged in 3 iters!
+residual = 16703.1
+Finished STEP = 300
+
+TIMESTEP=301 TIME=1.00875e-06
+converged in 3 iters!
+residual = 16749.8
+Finished STEP = 301
+
+TIMESTEP=302 TIME=1.0121e-06
+converged in 3 iters!
+residual = 16796.5
+Finished STEP = 302
+
+TIMESTEP=303 TIME=1.01545e-06
+converged in 3 iters!
+residual = 16843.2
+Finished STEP = 303
+
+TIMESTEP=304 TIME=1.01881e-06
+converged in 3 iters!
+residual = 16889.8
+Finished STEP = 304
+
+TIMESTEP=305 TIME=1.02216e-06
+converged in 3 iters!
+residual = 16936.4
+Finished STEP = 305
+
+TIMESTEP=306 TIME=1.02551e-06
+converged in 3 iters!
+residual = 16982.9
+Finished STEP = 306
+
+TIMESTEP=307 TIME=1.02886e-06
+converged in 3 iters!
+residual = 17029.3
+Finished STEP = 307
+
+TIMESTEP=308 TIME=1.03221e-06
+converged in 3 iters!
+residual = 17075.7
+Finished STEP = 308
+
+TIMESTEP=309 TIME=1.03556e-06
+converged in 3 iters!
+residual = 17122
+Finished STEP = 309
+
+TIMESTEP=310 TIME=1.03891e-06
+converged in 3 iters!
+residual = 17168.3
+Finished STEP = 310
+
+TIMESTEP=311 TIME=1.04226e-06
+converged in 3 iters!
+residual = 17214.5
+Finished STEP = 311
+
+TIMESTEP=312 TIME=1.04562e-06
+converged in 3 iters!
+residual = 17260.7
+Finished STEP = 312
+
+TIMESTEP=313 TIME=1.04897e-06
+converged in 3 iters!
+residual = 17306.8
+Finished STEP = 313
+
+TIMESTEP=314 TIME=1.05232e-06
+converged in 3 iters!
+residual = 17352.9
+Finished STEP = 314
+
+TIMESTEP=315 TIME=1.05567e-06
+converged in 3 iters!
+residual = 17398.9
+Finished STEP = 315
+
+TIMESTEP=316 TIME=1.05902e-06
+converged in 3 iters!
+residual = 17444.8
+Finished STEP = 316
+
+TIMESTEP=317 TIME=1.06237e-06
+converged in 3 iters!
+residual = 17490.7
+Finished STEP = 317
+
+TIMESTEP=318 TIME=1.06572e-06
+converged in 3 iters!
+residual = 17536.5
+Finished STEP = 318
+
+TIMESTEP=319 TIME=1.06908e-06
+converged in 3 iters!
+residual = 17582.3
+Finished STEP = 319
+
+TIMESTEP=320 TIME=1.07243e-06
+converged in 3 iters!
+residual = 17628.1
+Finished STEP = 320
+
+TIMESTEP=321 TIME=1.07578e-06
+converged in 3 iters!
+residual = 17673.7
+Finished STEP = 321
+
+TIMESTEP=322 TIME=1.07913e-06
+converged in 3 iters!
+residual = 17719.4
+Finished STEP = 322
+
+TIMESTEP=323 TIME=1.08248e-06
+converged in 3 iters!
+residual = 17764.9
+Finished STEP = 323
+
+TIMESTEP=324 TIME=1.08583e-06
+converged in 3 iters!
+residual = 17810.5
+Finished STEP = 324
+
+TIMESTEP=325 TIME=1.08918e-06
+converged in 3 iters!
+residual = 17855.9
+Finished STEP = 325
+
+TIMESTEP=326 TIME=1.09253e-06
+converged in 3 iters!
+residual = 17901.3
+Finished STEP = 326
+
+TIMESTEP=327 TIME=1.09589e-06
+converged in 3 iters!
+residual = 17946.7
+Finished STEP = 327
+
+TIMESTEP=328 TIME=1.09924e-06
+converged in 3 iters!
+residual = 17992
+Finished STEP = 328
+
+TIMESTEP=329 TIME=1.10259e-06
+converged in 3 iters!
+residual = 18037.2
+Finished STEP = 329
+
+TIMESTEP=330 TIME=1.10594e-06
+converged in 3 iters!
+residual = 18082.4
+Finished STEP = 330
+
+TIMESTEP=331 TIME=1.10929e-06
+converged in 3 iters!
+residual = 18127.6
+Finished STEP = 331
+
+TIMESTEP=332 TIME=1.11264e-06
+converged in 3 iters!
+residual = 18172.6
+Finished STEP = 332
+
+TIMESTEP=333 TIME=1.11599e-06
+converged in 3 iters!
+residual = 18217.7
+Finished STEP = 333
+
+TIMESTEP=334 TIME=1.11935e-06
+converged in 3 iters!
+residual = 18262.7
+Finished STEP = 334
+
+TIMESTEP=335 TIME=1.1227e-06
+converged in 3 iters!
+residual = 18307.6
+Finished STEP = 335
+
+TIMESTEP=336 TIME=1.12605e-06
+converged in 3 iters!
+residual = 18352.5
+Finished STEP = 336
+
+TIMESTEP=337 TIME=1.1294e-06
+converged in 3 iters!
+residual = 18397.3
+Finished STEP = 337
+
+TIMESTEP=338 TIME=1.13275e-06
+converged in 3 iters!
+residual = 18442
+Finished STEP = 338
+
+TIMESTEP=339 TIME=1.1361e-06
+converged in 3 iters!
+residual = 18486.8
+Finished STEP = 339
+
+TIMESTEP=340 TIME=1.13945e-06
+converged in 3 iters!
+residual = 18531.4
+Finished STEP = 340
+
+TIMESTEP=341 TIME=1.1428e-06
+converged in 3 iters!
+residual = 18576
+Finished STEP = 341
+
+TIMESTEP=342 TIME=1.14616e-06
+converged in 3 iters!
+residual = 18620.6
+Finished STEP = 342
+
+TIMESTEP=343 TIME=1.14951e-06
+converged in 3 iters!
+residual = 18665.1
+Finished STEP = 343
+
+TIMESTEP=344 TIME=1.15286e-06
+converged in 3 iters!
+residual = 18709.5
+Finished STEP = 344
+
+TIMESTEP=345 TIME=1.15621e-06
+converged in 3 iters!
+residual = 18753.9
+Finished STEP = 345
+
+TIMESTEP=346 TIME=1.15956e-06
+converged in 3 iters!
+residual = 18798.3
+Finished STEP = 346
+
+TIMESTEP=347 TIME=1.16291e-06
+converged in 3 iters!
+residual = 18842.5
+Finished STEP = 347
+
+TIMESTEP=348 TIME=1.16626e-06
+converged in 3 iters!
+residual = 18886.8
+Finished STEP = 348
+
+TIMESTEP=349 TIME=1.16962e-06
+converged in 3 iters!
+residual = 18931
+Finished STEP = 349
+
+TIMESTEP=350 TIME=1.17297e-06
+converged in 3 iters!
+residual = 18975.1
+Finished STEP = 350
+
+TIMESTEP=351 TIME=1.17632e-06
+converged in 3 iters!
+residual = 19019.2
+Finished STEP = 351
+
+TIMESTEP=352 TIME=1.17967e-06
+converged in 3 iters!
+residual = 19063.2
+Finished STEP = 352
+
+TIMESTEP=353 TIME=1.18302e-06
+converged in 3 iters!
+residual = 19107.2
+Finished STEP = 353
+
+TIMESTEP=354 TIME=1.18637e-06
+converged in 3 iters!
+residual = 19151.1
+Finished STEP = 354
+
+TIMESTEP=355 TIME=1.18972e-06
+converged in 3 iters!
+residual = 19195
+Finished STEP = 355
+
+TIMESTEP=356 TIME=1.19307e-06
+converged in 3 iters!
+residual = 19238.8
+Finished STEP = 356
+
+TIMESTEP=357 TIME=1.19643e-06
+converged in 3 iters!
+residual = 19282.5
+Finished STEP = 357
+
+TIMESTEP=358 TIME=1.19978e-06
+converged in 3 iters!
+residual = 19326.2
+Finished STEP = 358
+
+TIMESTEP=359 TIME=1.20313e-06
+converged in 3 iters!
+residual = 19369.9
+Finished STEP = 359
+
+TIMESTEP=360 TIME=1.20648e-06
+converged in 3 iters!
+residual = 19413.5
+Finished STEP = 360
+
+TIMESTEP=361 TIME=1.20983e-06
+converged in 3 iters!
+residual = 19457.1
+Finished STEP = 361
+
+TIMESTEP=362 TIME=1.21318e-06
+converged in 3 iters!
+residual = 19500.6
+Finished STEP = 362
+
+TIMESTEP=363 TIME=1.21653e-06
+converged in 3 iters!
+residual = 19544
+Finished STEP = 363
+
+TIMESTEP=364 TIME=1.21989e-06
+converged in 3 iters!
+residual = 19587.4
+Finished STEP = 364
+
+TIMESTEP=365 TIME=1.22324e-06
+converged in 3 iters!
+residual = 19630.8
+Finished STEP = 365
+
+TIMESTEP=366 TIME=1.22659e-06
+converged in 3 iters!
+residual = 19674.1
+Finished STEP = 366
+
+TIMESTEP=367 TIME=1.22994e-06
+converged in 3 iters!
+residual = 19717.3
+Finished STEP = 367
+
+TIMESTEP=368 TIME=1.23329e-06
+converged in 3 iters!
+residual = 19760.5
+Finished STEP = 368
+
+TIMESTEP=369 TIME=1.23664e-06
+converged in 3 iters!
+residual = 19803.6
+Finished STEP = 369
+
+TIMESTEP=370 TIME=1.23999e-06
+converged in 3 iters!
+residual = 19846.7
+Finished STEP = 370
+
+TIMESTEP=371 TIME=1.24334e-06
+converged in 3 iters!
+residual = 19889.7
+Finished STEP = 371
+
+TIMESTEP=372 TIME=1.2467e-06
+converged in 3 iters!
+residual = 19932.7
+Finished STEP = 372
+
+TIMESTEP=373 TIME=1.25005e-06
+converged in 3 iters!
+residual = 19975.7
+Finished STEP = 373
+
+TIMESTEP=374 TIME=1.2534e-06
+converged in 3 iters!
+residual = 20018.5
+Finished STEP = 374
+
+TIMESTEP=375 TIME=1.25675e-06
+converged in 3 iters!
+residual = 20061.4
+Finished STEP = 375
+
+TIMESTEP=376 TIME=1.2601e-06
+converged in 3 iters!
+residual = 20104.1
+Finished STEP = 376
+
+TIMESTEP=377 TIME=1.26345e-06
+converged in 3 iters!
+residual = 20146.9
+Finished STEP = 377
+
+TIMESTEP=378 TIME=1.2668e-06
+converged in 3 iters!
+residual = 20189.5
+Finished STEP = 378
+
+TIMESTEP=379 TIME=1.27016e-06
+converged in 3 iters!
+residual = 20232.2
+Finished STEP = 379
+
+TIMESTEP=380 TIME=1.27351e-06
+converged in 3 iters!
+residual = 20274.7
+Finished STEP = 380
+
+TIMESTEP=381 TIME=1.27686e-06
+converged in 3 iters!
+residual = 20317.2
+Finished STEP = 381
+
+TIMESTEP=382 TIME=1.28021e-06
+converged in 3 iters!
+residual = 20359.7
+Finished STEP = 382
+
+TIMESTEP=383 TIME=1.28356e-06
+converged in 3 iters!
+residual = 20402.1
+Finished STEP = 383
+
+TIMESTEP=384 TIME=1.28691e-06
+converged in 3 iters!
+residual = 20444.5
+Finished STEP = 384
+
+TIMESTEP=385 TIME=1.29026e-06
+converged in 3 iters!
+residual = 20486.8
+Finished STEP = 385
+
+TIMESTEP=386 TIME=1.29361e-06
+converged in 3 iters!
+residual = 20529.1
+Finished STEP = 386
+
+TIMESTEP=387 TIME=1.29697e-06
+converged in 3 iters!
+residual = 20571.3
+Finished STEP = 387
+
+TIMESTEP=388 TIME=1.30032e-06
+converged in 3 iters!
+residual = 20613.4
+Finished STEP = 388
+
+TIMESTEP=389 TIME=1.30367e-06
+converged in 3 iters!
+residual = 20655.6
+Finished STEP = 389
+
+TIMESTEP=390 TIME=1.30702e-06
+converged in 3 iters!
+residual = 20697.6
+Finished STEP = 390
+
+TIMESTEP=391 TIME=1.31037e-06
+converged in 3 iters!
+residual = 20739.6
+Finished STEP = 391
+
+TIMESTEP=392 TIME=1.31372e-06
+converged in 3 iters!
+residual = 20781.6
+Finished STEP = 392
+
+TIMESTEP=393 TIME=1.31707e-06
+converged in 3 iters!
+residual = 20823.5
+Finished STEP = 393
+
+TIMESTEP=394 TIME=1.32043e-06
+converged in 3 iters!
+residual = 20865.3
+Finished STEP = 394
+
+TIMESTEP=395 TIME=1.32378e-06
+converged in 3 iters!
+residual = 20907.2
+Finished STEP = 395
+
+TIMESTEP=396 TIME=1.32713e-06
+converged in 3 iters!
+residual = 20948.9
+Finished STEP = 396
+
+TIMESTEP=397 TIME=1.33048e-06
+converged in 3 iters!
+residual = 20990.6
+Finished STEP = 397
+
+TIMESTEP=398 TIME=1.33383e-06
+converged in 3 iters!
+residual = 21032.3
+Finished STEP = 398
+
+TIMESTEP=399 TIME=1.33718e-06
+converged in 3 iters!
+residual = 21073.9
+Finished STEP = 399
+
+TIMESTEP=400 TIME=1.34053e-06
+converged in 3 iters!
+residual = 21115.4
+Finished STEP = 400
+
+TIMESTEP=401 TIME=1.34388e-06
+converged in 3 iters!
+residual = 21156.9
+Finished STEP = 401
+
+TIMESTEP=402 TIME=1.34724e-06
+converged in 3 iters!
+residual = 21198.4
+Finished STEP = 402
+
+TIMESTEP=403 TIME=1.35059e-06
+converged in 3 iters!
+residual = 21239.8
+Finished STEP = 403
+
+TIMESTEP=404 TIME=1.35394e-06
+converged in 3 iters!
+residual = 21281.1
+Finished STEP = 404
+
+TIMESTEP=405 TIME=1.35729e-06
+converged in 3 iters!
+residual = 21322.4
+Finished STEP = 405
+
+TIMESTEP=406 TIME=1.36064e-06
+converged in 3 iters!
+residual = 21363.7
+Finished STEP = 406
+
+TIMESTEP=407 TIME=1.36399e-06
+converged in 3 iters!
+residual = 21404.9
+Finished STEP = 407
+
+TIMESTEP=408 TIME=1.36734e-06
+converged in 3 iters!
+residual = 21446
+Finished STEP = 408
+
+TIMESTEP=409 TIME=1.3707e-06
+converged in 3 iters!
+residual = 21487.1
+Finished STEP = 409
+
+TIMESTEP=410 TIME=1.37405e-06
+converged in 3 iters!
+residual = 21528.2
+Finished STEP = 410
+
+TIMESTEP=411 TIME=1.3774e-06
+converged in 3 iters!
+residual = 21569.2
+Finished STEP = 411
+
+TIMESTEP=412 TIME=1.38075e-06
+converged in 3 iters!
+residual = 21610.1
+Finished STEP = 412
+
+TIMESTEP=413 TIME=1.3841e-06
+converged in 3 iters!
+residual = 21651
+Finished STEP = 413
+
+TIMESTEP=414 TIME=1.38745e-06
+converged in 3 iters!
+residual = 21691.9
+Finished STEP = 414
+
+TIMESTEP=415 TIME=1.3908e-06
+converged in 3 iters!
+residual = 21732.7
+Finished STEP = 415
+
+TIMESTEP=416 TIME=1.39415e-06
+converged in 3 iters!
+residual = 21773.5
+Finished STEP = 416
+
+TIMESTEP=417 TIME=1.39751e-06
+converged in 3 iters!
+residual = 21814.2
+Finished STEP = 417
+
+TIMESTEP=418 TIME=1.40086e-06
+converged in 3 iters!
+residual = 21854.8
+Finished STEP = 418
+
+TIMESTEP=419 TIME=1.40421e-06
+converged in 3 iters!
+residual = 21895.4
+Finished STEP = 419
+
+TIMESTEP=420 TIME=1.40756e-06
+converged in 3 iters!
+residual = 21936
+Finished STEP = 420
+
+TIMESTEP=421 TIME=1.41091e-06
+converged in 3 iters!
+residual = 21976.5
+Finished STEP = 421
+
+TIMESTEP=422 TIME=1.41426e-06
+converged in 3 iters!
+residual = 22016.9
+Finished STEP = 422
+
+TIMESTEP=423 TIME=1.41761e-06
+converged in 3 iters!
+residual = 22057.3
+Finished STEP = 423
+
+TIMESTEP=424 TIME=1.42096e-06
+converged in 3 iters!
+residual = 22097.7
+Finished STEP = 424
+
+TIMESTEP=425 TIME=1.42432e-06
+converged in 3 iters!
+residual = 22138
+Finished STEP = 425
+
+TIMESTEP=426 TIME=1.42767e-06
+converged in 3 iters!
+residual = 22178.3
+Finished STEP = 426
+
+TIMESTEP=427 TIME=1.43102e-06
+converged in 3 iters!
+residual = 22218.5
+Finished STEP = 427
+
+TIMESTEP=428 TIME=1.43437e-06
+converged in 3 iters!
+residual = 22258.6
+Finished STEP = 428
+
+TIMESTEP=429 TIME=1.43772e-06
+converged in 3 iters!
+residual = 22298.7
+Finished STEP = 429
+
+TIMESTEP=430 TIME=1.44107e-06
+converged in 3 iters!
+residual = 22338.8
+Finished STEP = 430
+
+TIMESTEP=431 TIME=1.44442e-06
+converged in 3 iters!
+residual = 22378.8
+Finished STEP = 431
+
+TIMESTEP=432 TIME=1.44778e-06
+converged in 3 iters!
+residual = 22418.8
+Finished STEP = 432
+
+TIMESTEP=433 TIME=1.45113e-06
+converged in 3 iters!
+residual = 22458.7
+Finished STEP = 433
+
+TIMESTEP=434 TIME=1.45448e-06
+converged in 3 iters!
+residual = 22498.5
+Finished STEP = 434
+
+TIMESTEP=435 TIME=1.45783e-06
+converged in 3 iters!
+residual = 22538.4
+Finished STEP = 435
+
+TIMESTEP=436 TIME=1.46118e-06
+converged in 3 iters!
+residual = 22578.1
+Finished STEP = 436
+
+TIMESTEP=437 TIME=1.46453e-06
+converged in 3 iters!
+residual = 22617.8
+Finished STEP = 437
+
+TIMESTEP=438 TIME=1.46788e-06
+converged in 3 iters!
+residual = 22657.5
+Finished STEP = 438
+
+TIMESTEP=439 TIME=1.47123e-06
+converged in 3 iters!
+residual = 22697.1
+Finished STEP = 439
+
+TIMESTEP=440 TIME=1.47459e-06
+converged in 3 iters!
+residual = 22736.7
+Finished STEP = 440
+
+TIMESTEP=441 TIME=1.47794e-06
+converged in 3 iters!
+residual = 22776.2
+Finished STEP = 441
+
+TIMESTEP=442 TIME=1.48129e-06
+converged in 3 iters!
+residual = 22815.7
+Finished STEP = 442
+
+TIMESTEP=443 TIME=1.48464e-06
+converged in 3 iters!
+residual = 22855.1
+Finished STEP = 443
+
+TIMESTEP=444 TIME=1.48799e-06
+converged in 3 iters!
+residual = 22894.5
+Finished STEP = 444
+
+TIMESTEP=445 TIME=1.49134e-06
+converged in 3 iters!
+residual = 22933.8
+Finished STEP = 445
+
+TIMESTEP=446 TIME=1.49469e-06
+converged in 3 iters!
+residual = 22973.1
+Finished STEP = 446
+
+TIMESTEP=447 TIME=1.49805e-06
+converged in 3 iters!
+residual = 23012.3
+Finished STEP = 447
+
+TIMESTEP=448 TIME=1.5014e-06
+converged in 3 iters!
+residual = 23051.5
+Finished STEP = 448
+
+TIMESTEP=449 TIME=1.50475e-06
+converged in 3 iters!
+residual = 23090.7
+Finished STEP = 449
+
+TIMESTEP=450 TIME=1.5081e-06
+converged in 3 iters!
+residual = 23129.8
+Finished STEP = 450
+
+TIMESTEP=451 TIME=1.51145e-06
+converged in 3 iters!
+residual = 23168.8
+Finished STEP = 451
+
+TIMESTEP=452 TIME=1.5148e-06
+converged in 3 iters!
+residual = 23207.8
+Finished STEP = 452
+
+TIMESTEP=453 TIME=1.51815e-06
+converged in 3 iters!
+residual = 23246.7
+Finished STEP = 453
+
+TIMESTEP=454 TIME=1.5215e-06
+converged in 3 iters!
+residual = 23285.6
+Finished STEP = 454
+
+TIMESTEP=455 TIME=1.52486e-06
+converged in 3 iters!
+residual = 23324.5
+Finished STEP = 455
+
+TIMESTEP=456 TIME=1.52821e-06
+converged in 3 iters!
+residual = 23363.3
+Finished STEP = 456
+
+TIMESTEP=457 TIME=1.53156e-06
+converged in 3 iters!
+residual = 23402
+Finished STEP = 457
+
+TIMESTEP=458 TIME=1.53491e-06
+converged in 3 iters!
+residual = 23440.7
+Finished STEP = 458
+
+TIMESTEP=459 TIME=1.53826e-06
+converged in 3 iters!
+residual = 23479.4
+Finished STEP = 459
+
+TIMESTEP=460 TIME=1.54161e-06
+converged in 3 iters!
+residual = 23518
+Finished STEP = 460
+
+TIMESTEP=461 TIME=1.54496e-06
+converged in 3 iters!
+residual = 23556.5
+Finished STEP = 461
+
+TIMESTEP=462 TIME=1.54832e-06
+converged in 3 iters!
+residual = 23595
+Finished STEP = 462
+
+TIMESTEP=463 TIME=1.55167e-06
+converged in 3 iters!
+residual = 23633.5
+Finished STEP = 463
+
+TIMESTEP=464 TIME=1.55502e-06
+converged in 3 iters!
+residual = 23671.9
+Finished STEP = 464
+
+TIMESTEP=465 TIME=1.55837e-06
+converged in 3 iters!
+residual = 23710.3
+Finished STEP = 465
+
+TIMESTEP=466 TIME=1.56172e-06
+converged in 3 iters!
+residual = 23748.6
+Finished STEP = 466
+
+TIMESTEP=467 TIME=1.56507e-06
+converged in 3 iters!
+residual = 23786.9
+Finished STEP = 467
+
+TIMESTEP=468 TIME=1.56842e-06
+converged in 3 iters!
+residual = 23825.1
+Finished STEP = 468
+
+TIMESTEP=469 TIME=1.57177e-06
+converged in 3 iters!
+residual = 23863.3
+Finished STEP = 469
+
+TIMESTEP=470 TIME=1.57513e-06
+converged in 3 iters!
+residual = 23901.4
+Finished STEP = 470
+
+TIMESTEP=471 TIME=1.57848e-06
+converged in 3 iters!
+residual = 23939.5
+Finished STEP = 471
+
+TIMESTEP=472 TIME=1.58183e-06
+converged in 3 iters!
+residual = 23977.5
+Finished STEP = 472
+
+TIMESTEP=473 TIME=1.58518e-06
+converged in 3 iters!
+residual = 24015.5
+Finished STEP = 473
+
+TIMESTEP=474 TIME=1.58853e-06
+converged in 3 iters!
+residual = 24053.5
+Finished STEP = 474
+
+TIMESTEP=475 TIME=1.59188e-06
+converged in 3 iters!
+residual = 24091.4
+Finished STEP = 475
+
+TIMESTEP=476 TIME=1.59523e-06
+converged in 3 iters!
+residual = 24129.2
+Finished STEP = 476
+
+TIMESTEP=477 TIME=1.59859e-06
+converged in 3 iters!
+residual = 24167
+Finished STEP = 477
+
+TIMESTEP=478 TIME=1.60194e-06
+converged in 3 iters!
+residual = 24204.7
+Finished STEP = 478
+
+TIMESTEP=479 TIME=1.60529e-06
+converged in 3 iters!
+residual = 24242.5
+Finished STEP = 479
+
+TIMESTEP=480 TIME=1.60864e-06
+converged in 3 iters!
+residual = 24280.1
+Finished STEP = 480
+
+TIMESTEP=481 TIME=1.61199e-06
+converged in 3 iters!
+residual = 24317.7
+Finished STEP = 481
+
+TIMESTEP=482 TIME=1.61534e-06
+converged in 3 iters!
+residual = 24355.3
+Finished STEP = 482
+
+TIMESTEP=483 TIME=1.61869e-06
+converged in 3 iters!
+residual = 24392.8
+Finished STEP = 483
+
+TIMESTEP=484 TIME=1.62204e-06
+converged in 3 iters!
+residual = 24430.3
+Finished STEP = 484
+
+TIMESTEP=485 TIME=1.6254e-06
+converged in 3 iters!
+residual = 24467.7
+Finished STEP = 485
+
+TIMESTEP=486 TIME=1.62875e-06
+converged in 3 iters!
+residual = 24505.1
+Finished STEP = 486
+
+TIMESTEP=487 TIME=1.6321e-06
+converged in 3 iters!
+residual = 24542.4
+Finished STEP = 487
+
+TIMESTEP=488 TIME=1.63545e-06
+converged in 3 iters!
+residual = 24579.7
+Finished STEP = 488
+
+TIMESTEP=489 TIME=1.6388e-06
+converged in 3 iters!
+residual = 24616.9
+Finished STEP = 489
+
+TIMESTEP=490 TIME=1.64215e-06
+converged in 3 iters!
+residual = 24654.1
+Finished STEP = 490
+
+TIMESTEP=491 TIME=1.6455e-06
+converged in 3 iters!
+residual = 24691.2
+Finished STEP = 491
+
+TIMESTEP=492 TIME=1.64886e-06
+converged in 3 iters!
+residual = 24728.3
+Finished STEP = 492
+
+TIMESTEP=493 TIME=1.65221e-06
+converged in 3 iters!
+residual = 24765.4
+Finished STEP = 493
+
+TIMESTEP=494 TIME=1.65556e-06
+converged in 3 iters!
+residual = 24802.4
+Finished STEP = 494
+
+TIMESTEP=495 TIME=1.65891e-06
+converged in 3 iters!
+residual = 24839.4
+Finished STEP = 495
+
+TIMESTEP=496 TIME=1.66226e-06
+converged in 3 iters!
+residual = 24876.3
+Finished STEP = 496
+
+TIMESTEP=497 TIME=1.66561e-06
+converged in 3 iters!
+residual = 24913.1
+Finished STEP = 497
+
+TIMESTEP=498 TIME=1.66896e-06
+converged in 3 iters!
+residual = 24949.9
+Finished STEP = 498
+
+TIMESTEP=499 TIME=1.67231e-06
+converged in 3 iters!
+residual = 24986.7
+Finished STEP = 499
+
+TIMESTEP=500 TIME=1.67567e-06
+converged in 3 iters!
+residual = 25023.4
+Finished STEP = 500
+
+TIMESTEP=501 TIME=1.67902e-06
+converged in 3 iters!
+residual = 25060.1
+Finished STEP = 501
+
+TIMESTEP=502 TIME=1.68237e-06
+converged in 3 iters!
+residual = 25096.8
+Finished STEP = 502
+
+TIMESTEP=503 TIME=1.68572e-06
+converged in 3 iters!
+residual = 25133.3
+Finished STEP = 503
+
+TIMESTEP=504 TIME=1.68907e-06
+converged in 3 iters!
+residual = 25169.9
+Finished STEP = 504
+
+TIMESTEP=505 TIME=1.69242e-06
+converged in 3 iters!
+residual = 25206.4
+Finished STEP = 505
+
+TIMESTEP=506 TIME=1.69577e-06
+converged in 3 iters!
+residual = 25242.8
+Finished STEP = 506
+
+TIMESTEP=507 TIME=1.69913e-06
+converged in 3 iters!
+residual = 25279.2
+Finished STEP = 507
+
+TIMESTEP=508 TIME=1.70248e-06
+converged in 3 iters!
+residual = 25315.6
+Finished STEP = 508
+
+TIMESTEP=509 TIME=1.70583e-06
+converged in 3 iters!
+residual = 25351.9
+Finished STEP = 509
+
+TIMESTEP=510 TIME=1.70918e-06
+converged in 3 iters!
+residual = 25388.2
+Finished STEP = 510
+
+TIMESTEP=511 TIME=1.71253e-06
+converged in 3 iters!
+residual = 25424.4
+Finished STEP = 511
+
+TIMESTEP=512 TIME=1.71588e-06
+converged in 3 iters!
+residual = 25460.5
+Finished STEP = 512
+
+TIMESTEP=513 TIME=1.71923e-06
+converged in 3 iters!
+residual = 25496.7
+Finished STEP = 513
+
+TIMESTEP=514 TIME=1.72258e-06
+converged in 3 iters!
+residual = 25532.8
+Finished STEP = 514
+
+TIMESTEP=515 TIME=1.72594e-06
+converged in 3 iters!
+residual = 25568.8
+Finished STEP = 515
+
+TIMESTEP=516 TIME=1.72929e-06
+converged in 3 iters!
+residual = 25604.8
+Finished STEP = 516
+
+TIMESTEP=517 TIME=1.73264e-06
+converged in 3 iters!
+residual = 25640.7
+Finished STEP = 517
+
+TIMESTEP=518 TIME=1.73599e-06
+converged in 3 iters!
+residual = 25676.6
+Finished STEP = 518
+
+TIMESTEP=519 TIME=1.73934e-06
+converged in 3 iters!
+residual = 25712.5
+Finished STEP = 519
+
+TIMESTEP=520 TIME=1.74269e-06
+converged in 3 iters!
+residual = 25748.3
+Finished STEP = 520
+
+TIMESTEP=521 TIME=1.74604e-06
+converged in 3 iters!
+residual = 25784
+Finished STEP = 521
+
+TIMESTEP=522 TIME=1.7494e-06
+converged in 3 iters!
+residual = 25819.8
+Finished STEP = 522
+
+TIMESTEP=523 TIME=1.75275e-06
+converged in 3 iters!
+residual = 25855.4
+Finished STEP = 523
+
+TIMESTEP=524 TIME=1.7561e-06
+converged in 3 iters!
+residual = 25891.1
+Finished STEP = 524
+
+TIMESTEP=525 TIME=1.75945e-06
+converged in 3 iters!
+residual = 25926.6
+Finished STEP = 525
+
+TIMESTEP=526 TIME=1.7628e-06
+converged in 3 iters!
+residual = 25962.2
+Finished STEP = 526
+
+TIMESTEP=527 TIME=1.76615e-06
+converged in 3 iters!
+residual = 25997.7
+Finished STEP = 527
+
+TIMESTEP=528 TIME=1.7695e-06
+converged in 3 iters!
+residual = 26033.1
+Finished STEP = 528
+
+TIMESTEP=529 TIME=1.77285e-06
+converged in 3 iters!
+residual = 26068.5
+Finished STEP = 529
+
+TIMESTEP=530 TIME=1.77621e-06
+converged in 3 iters!
+residual = 26103.9
+Finished STEP = 530
+
+TIMESTEP=531 TIME=1.77956e-06
+converged in 3 iters!
+residual = 26139.2
+Finished STEP = 531
+
+TIMESTEP=532 TIME=1.78291e-06
+converged in 3 iters!
+residual = 26174.4
+Finished STEP = 532
+
+TIMESTEP=533 TIME=1.78626e-06
+converged in 3 iters!
+residual = 26209.7
+Finished STEP = 533
+
+TIMESTEP=534 TIME=1.78961e-06
+converged in 3 iters!
+residual = 26244.8
+Finished STEP = 534
+
+TIMESTEP=535 TIME=1.79296e-06
+converged in 3 iters!
+residual = 26280
+Finished STEP = 535
+
+TIMESTEP=536 TIME=1.79631e-06
+converged in 3 iters!
+residual = 26315
+Finished STEP = 536
+
+TIMESTEP=537 TIME=1.79967e-06
+converged in 3 iters!
+residual = 26350.1
+Finished STEP = 537
+
+TIMESTEP=538 TIME=1.80302e-06
+converged in 3 iters!
+residual = 26385.1
+Finished STEP = 538
+
+TIMESTEP=539 TIME=1.80637e-06
+converged in 3 iters!
+residual = 26420
+Finished STEP = 539
+
+TIMESTEP=540 TIME=1.80972e-06
+converged in 3 iters!
+residual = 26454.9
+Finished STEP = 540
+
+TIMESTEP=541 TIME=1.81307e-06
+converged in 3 iters!
+residual = 26489.8
+Finished STEP = 541
+
+TIMESTEP=542 TIME=1.81642e-06
+converged in 3 iters!
+residual = 26524.6
+Finished STEP = 542
+
+TIMESTEP=543 TIME=1.81977e-06
+converged in 3 iters!
+residual = 26559.4
+Finished STEP = 543
+
+TIMESTEP=544 TIME=1.82312e-06
+converged in 3 iters!
+residual = 26594.1
+Finished STEP = 544
+
+TIMESTEP=545 TIME=1.82648e-06
+converged in 3 iters!
+residual = 26628.8
+Finished STEP = 545
+
+TIMESTEP=546 TIME=1.82983e-06
+converged in 3 iters!
+residual = 26663.4
+Finished STEP = 546
+
+TIMESTEP=547 TIME=1.83318e-06
+converged in 3 iters!
+residual = 26698
+Finished STEP = 547
+
+TIMESTEP=548 TIME=1.83653e-06
+converged in 3 iters!
+residual = 26732.6
+Finished STEP = 548
+
+TIMESTEP=549 TIME=1.83988e-06
+converged in 3 iters!
+residual = 26767.1
+Finished STEP = 549
+
+TIMESTEP=550 TIME=1.84323e-06
+converged in 3 iters!
+residual = 26801.5
+Finished STEP = 550
+
+TIMESTEP=551 TIME=1.84658e-06
+converged in 3 iters!
+residual = 26836
+Finished STEP = 551
+
+TIMESTEP=552 TIME=1.84994e-06
+converged in 3 iters!
+residual = 26870.3
+Finished STEP = 552
+
+TIMESTEP=553 TIME=1.85329e-06
+converged in 3 iters!
+residual = 26904.7
+Finished STEP = 553
+
+TIMESTEP=554 TIME=1.85664e-06
+converged in 3 iters!
+residual = 26938.9
+Finished STEP = 554
+
+TIMESTEP=555 TIME=1.85999e-06
+converged in 3 iters!
+residual = 26973.2
+Finished STEP = 555
+
+TIMESTEP=556 TIME=1.86334e-06
+converged in 3 iters!
+residual = 27007.4
+Finished STEP = 556
+
+TIMESTEP=557 TIME=1.86669e-06
+converged in 3 iters!
+residual = 27041.5
+Finished STEP = 557
+
+TIMESTEP=558 TIME=1.87004e-06
+converged in 3 iters!
+residual = 27075.6
+Finished STEP = 558
+
+TIMESTEP=559 TIME=1.87339e-06
+converged in 3 iters!
+residual = 27109.7
+Finished STEP = 559
+
+TIMESTEP=560 TIME=1.87675e-06
+converged in 3 iters!
+residual = 27143.7
+Finished STEP = 560
+
+TIMESTEP=561 TIME=1.8801e-06
+converged in 3 iters!
+residual = 27177.7
+Finished STEP = 561
+
+TIMESTEP=562 TIME=1.88345e-06
+converged in 3 iters!
+residual = 27211.6
+Finished STEP = 562
+
+TIMESTEP=563 TIME=1.8868e-06
+converged in 3 iters!
+residual = 27245.5
+Finished STEP = 563
+
+TIMESTEP=564 TIME=1.89015e-06
+converged in 3 iters!
+residual = 27279.4
+Finished STEP = 564
+
+TIMESTEP=565 TIME=1.8935e-06
+converged in 3 iters!
+residual = 27313.2
+Finished STEP = 565
+
+TIMESTEP=566 TIME=1.89685e-06
+converged in 3 iters!
+residual = 27346.9
+Finished STEP = 566
+
+TIMESTEP=567 TIME=1.90021e-06
+converged in 3 iters!
+residual = 27380.6
+Finished STEP = 567
+
+TIMESTEP=568 TIME=1.90356e-06
+converged in 3 iters!
+residual = 27414.3
+Finished STEP = 568
+
+TIMESTEP=569 TIME=1.90691e-06
+converged in 3 iters!
+residual = 27447.9
+Finished STEP = 569
+
+TIMESTEP=570 TIME=1.91026e-06
+converged in 3 iters!
+residual = 27481.5
+Finished STEP = 570
+
+TIMESTEP=571 TIME=1.91361e-06
+converged in 3 iters!
+residual = 27515
+Finished STEP = 571
+
+TIMESTEP=572 TIME=1.91696e-06
+converged in 3 iters!
+residual = 27548.5
+Finished STEP = 572
+
+TIMESTEP=573 TIME=1.92031e-06
+converged in 3 iters!
+residual = 27582
+Finished STEP = 573
+
+TIMESTEP=574 TIME=1.92366e-06
+converged in 3 iters!
+residual = 27615.4
+Finished STEP = 574
+
+TIMESTEP=575 TIME=1.92702e-06
+converged in 3 iters!
+residual = 27648.7
+Finished STEP = 575
+
+TIMESTEP=576 TIME=1.93037e-06
+converged in 3 iters!
+residual = 27682.1
+Finished STEP = 576
+
+TIMESTEP=577 TIME=1.93372e-06
+converged in 3 iters!
+residual = 27715.3
+Finished STEP = 577
+
+TIMESTEP=578 TIME=1.93707e-06
+converged in 3 iters!
+residual = 27748.6
+Finished STEP = 578
+
+TIMESTEP=579 TIME=1.94042e-06
+converged in 3 iters!
+residual = 27781.8
+Finished STEP = 579
+
+TIMESTEP=580 TIME=1.94377e-06
+converged in 3 iters!
+residual = 27814.9
+Finished STEP = 580
+
+TIMESTEP=581 TIME=1.94712e-06
+converged in 3 iters!
+residual = 27848
+Finished STEP = 581
+
+TIMESTEP=582 TIME=1.95048e-06
+converged in 3 iters!
+residual = 27881.1
+Finished STEP = 582
+
+TIMESTEP=583 TIME=1.95383e-06
+converged in 3 iters!
+residual = 27914.1
+Finished STEP = 583
+
+TIMESTEP=584 TIME=1.95718e-06
+converged in 3 iters!
+residual = 27947.1
+Finished STEP = 584
+
+TIMESTEP=585 TIME=1.96053e-06
+converged in 3 iters!
+residual = 27980
+Finished STEP = 585
+
+TIMESTEP=586 TIME=1.96388e-06
+converged in 3 iters!
+residual = 28012.9
+Finished STEP = 586
+
+TIMESTEP=587 TIME=1.96723e-06
+converged in 3 iters!
+residual = 28045.7
+Finished STEP = 587
+
+TIMESTEP=588 TIME=1.97058e-06
+converged in 3 iters!
+residual = 28078.5
+Finished STEP = 588
+
+TIMESTEP=589 TIME=1.97393e-06
+converged in 3 iters!
+residual = 28111.3
+Finished STEP = 589
+
+TIMESTEP=590 TIME=1.97729e-06
+converged in 3 iters!
+residual = 28144
+Finished STEP = 590
+
+TIMESTEP=591 TIME=1.98064e-06
+converged in 3 iters!
+residual = 28176.7
+Finished STEP = 591
+
+TIMESTEP=592 TIME=1.98399e-06
+converged in 3 iters!
+residual = 28209.3
+Finished STEP = 592
+
+TIMESTEP=593 TIME=1.98734e-06
+converged in 3 iters!
+residual = 28241.9
+Finished STEP = 593
+
+TIMESTEP=594 TIME=1.99069e-06
+converged in 3 iters!
+residual = 28274.4
+Finished STEP = 594
+
+TIMESTEP=595 TIME=1.99404e-06
+converged in 3 iters!
+residual = 28306.9
+Finished STEP = 595
+
+TIMESTEP=596 TIME=1.99739e-06
+converged in 3 iters!
+residual = 28339.4
+Finished STEP = 596
+
+TIMESTEP=597 TIME=2.00075e-06
+converged in 3 iters!
+residual = 28371.8
+Finished STEP = 597
+
+TIMESTEP=598 TIME=2.0041e-06
+converged in 3 iters!
+residual = 28404.2
+Finished STEP = 598
+
+TIMESTEP=599 TIME=2.00745e-06
+converged in 3 iters!
+residual = 28436.5
+Finished STEP = 599
+
+TIMESTEP=600 TIME=2.0108e-06
+converged in 3 iters!
+residual = 28468.8
+Finished STEP = 600
+
+TIMESTEP=601 TIME=2.01415e-06
+converged in 3 iters!
+residual = 28501.1
+Finished STEP = 601
+
+TIMESTEP=602 TIME=2.0175e-06
+converged in 3 iters!
+residual = 28533.3
+Finished STEP = 602
+
+TIMESTEP=603 TIME=2.02085e-06
+converged in 3 iters!
+residual = 28565.4
+Finished STEP = 603
+
+TIMESTEP=604 TIME=2.0242e-06
+converged in 3 iters!
+residual = 28597.5
+Finished STEP = 604
+
+TIMESTEP=605 TIME=2.02756e-06
+converged in 3 iters!
+residual = 28629.6
+Finished STEP = 605
+
+TIMESTEP=606 TIME=2.03091e-06
+converged in 3 iters!
+residual = 28661.6
+Finished STEP = 606
+
+TIMESTEP=607 TIME=2.03426e-06
+converged in 3 iters!
+residual = 28693.6
+Finished STEP = 607
+
+TIMESTEP=608 TIME=2.03761e-06
+converged in 3 iters!
+residual = 28725.6
+Finished STEP = 608
+
+TIMESTEP=609 TIME=2.04096e-06
+converged in 3 iters!
+residual = 28757.5
+Finished STEP = 609
+
+TIMESTEP=610 TIME=2.04431e-06
+converged in 3 iters!
+residual = 28789.4
+Finished STEP = 610
+
+TIMESTEP=611 TIME=2.04766e-06
+converged in 3 iters!
+residual = 28821.2
+Finished STEP = 611
+
+TIMESTEP=612 TIME=2.05102e-06
+converged in 3 iters!
+residual = 28853
+Finished STEP = 612
+
+TIMESTEP=613 TIME=2.05437e-06
+converged in 3 iters!
+residual = 28884.7
+Finished STEP = 613
+
+TIMESTEP=614 TIME=2.05772e-06
+converged in 3 iters!
+residual = 28916.4
+Finished STEP = 614
+
+TIMESTEP=615 TIME=2.06107e-06
+converged in 3 iters!
+residual = 28948
+Finished STEP = 615
+
+TIMESTEP=616 TIME=2.06442e-06
+converged in 3 iters!
+residual = 28979.7
+Finished STEP = 616
+
+TIMESTEP=617 TIME=2.06777e-06
+converged in 3 iters!
+residual = 29011.2
+Finished STEP = 617
+
+TIMESTEP=618 TIME=2.07112e-06
+converged in 3 iters!
+residual = 29042.8
+Finished STEP = 618
+
+TIMESTEP=619 TIME=2.07447e-06
+converged in 3 iters!
+residual = 29074.2
+Finished STEP = 619
+
+TIMESTEP=620 TIME=2.07783e-06
+converged in 3 iters!
+residual = 29105.7
+Finished STEP = 620
+
+TIMESTEP=621 TIME=2.08118e-06
+converged in 3 iters!
+residual = 29137.1
+Finished STEP = 621
+
+TIMESTEP=622 TIME=2.08453e-06
+converged in 3 iters!
+residual = 29168.5
+Finished STEP = 622
+
+TIMESTEP=623 TIME=2.08788e-06
+converged in 3 iters!
+residual = 29199.8
+Finished STEP = 623
+
+TIMESTEP=624 TIME=2.09123e-06
+converged in 3 iters!
+residual = 29231
+Finished STEP = 624
+
+TIMESTEP=625 TIME=2.09458e-06
+converged in 3 iters!
+residual = 29262.3
+Finished STEP = 625
+
+TIMESTEP=626 TIME=2.09793e-06
+converged in 3 iters!
+residual = 29293.5
+Finished STEP = 626
+
+TIMESTEP=627 TIME=2.10129e-06
+converged in 3 iters!
+residual = 29324.6
+Finished STEP = 627
+
+TIMESTEP=628 TIME=2.10464e-06
+converged in 3 iters!
+residual = 29355.7
+Finished STEP = 628
+
+TIMESTEP=629 TIME=2.10799e-06
+converged in 3 iters!
+residual = 29386.8
+Finished STEP = 629
+
+TIMESTEP=630 TIME=2.11134e-06
+converged in 3 iters!
+residual = 29417.8
+Finished STEP = 630
+
+TIMESTEP=631 TIME=2.11469e-06
+converged in 3 iters!
+residual = 29448.8
+Finished STEP = 631
+
+TIMESTEP=632 TIME=2.11804e-06
+converged in 3 iters!
+residual = 29479.8
+Finished STEP = 632
+
+TIMESTEP=633 TIME=2.12139e-06
+converged in 3 iters!
+residual = 29510.7
+Finished STEP = 633
+
+TIMESTEP=634 TIME=2.12474e-06
+converged in 3 iters!
+residual = 29541.5
+Finished STEP = 634
+
+TIMESTEP=635 TIME=2.1281e-06
+converged in 3 iters!
+residual = 29572.4
+Finished STEP = 635
+
+TIMESTEP=636 TIME=2.13145e-06
+converged in 3 iters!
+residual = 29603.1
+Finished STEP = 636
+
+TIMESTEP=637 TIME=2.1348e-06
+converged in 3 iters!
+residual = 29633.9
+Finished STEP = 637
+
+TIMESTEP=638 TIME=2.13815e-06
+converged in 3 iters!
+residual = 29664.6
+Finished STEP = 638
+
+TIMESTEP=639 TIME=2.1415e-06
+converged in 3 iters!
+residual = 29695.2
+Finished STEP = 639
+
+TIMESTEP=640 TIME=2.14485e-06
+converged in 3 iters!
+residual = 29725.8
+Finished STEP = 640
+
+TIMESTEP=641 TIME=2.1482e-06
+converged in 3 iters!
+residual = 29756.4
+Finished STEP = 641
+
+TIMESTEP=642 TIME=2.15156e-06
+converged in 3 iters!
+residual = 29786.9
+Finished STEP = 642
+
+TIMESTEP=643 TIME=2.15491e-06
+converged in 3 iters!
+residual = 29817.4
+Finished STEP = 643
+
+TIMESTEP=644 TIME=2.15826e-06
+converged in 3 iters!
+residual = 29847.9
+Finished STEP = 644
+
+TIMESTEP=645 TIME=2.16161e-06
+converged in 3 iters!
+residual = 29878.3
+Finished STEP = 645
+
+TIMESTEP=646 TIME=2.16496e-06
+converged in 3 iters!
+residual = 29908.7
+Finished STEP = 646
+
+TIMESTEP=647 TIME=2.16831e-06
+converged in 3 iters!
+residual = 29939
+Finished STEP = 647
+
+TIMESTEP=648 TIME=2.17166e-06
+converged in 3 iters!
+residual = 29969.3
+Finished STEP = 648
+
+TIMESTEP=649 TIME=2.17501e-06
+converged in 3 iters!
+residual = 29999.5
+Finished STEP = 649
+
+TIMESTEP=650 TIME=2.17837e-06
+converged in 3 iters!
+residual = 30029.7
+Finished STEP = 650
+
+TIMESTEP=651 TIME=2.18172e-06
+converged in 3 iters!
+residual = 30059.9
+Finished STEP = 651
+
+TIMESTEP=652 TIME=2.18507e-06
+converged in 3 iters!
+residual = 30090
+Finished STEP = 652
+
+TIMESTEP=653 TIME=2.18842e-06
+converged in 3 iters!
+residual = 30120.1
+Finished STEP = 653
+
+TIMESTEP=654 TIME=2.19177e-06
+converged in 3 iters!
+residual = 30150.1
+Finished STEP = 654
+
+TIMESTEP=655 TIME=2.19512e-06
+converged in 3 iters!
+residual = 30180.1
+Finished STEP = 655
+
+TIMESTEP=656 TIME=2.19847e-06
+converged in 3 iters!
+residual = 30210.1
+Finished STEP = 656
+
+TIMESTEP=657 TIME=2.20183e-06
+converged in 3 iters!
+residual = 30240
+Finished STEP = 657
+
+TIMESTEP=658 TIME=2.20518e-06
+converged in 3 iters!
+residual = 30269.9
+Finished STEP = 658
+
+TIMESTEP=659 TIME=2.20853e-06
+converged in 3 iters!
+residual = 30299.7
+Finished STEP = 659
+
+TIMESTEP=660 TIME=2.21188e-06
+converged in 3 iters!
+residual = 30329.5
+Finished STEP = 660
+
+TIMESTEP=661 TIME=2.21523e-06
+converged in 3 iters!
+residual = 30359.3
+Finished STEP = 661
+
+TIMESTEP=662 TIME=2.21858e-06
+converged in 3 iters!
+residual = 30389
+Finished STEP = 662
+
+TIMESTEP=663 TIME=2.22193e-06
+converged in 3 iters!
+residual = 30418.6
+Finished STEP = 663
+
+TIMESTEP=664 TIME=2.22528e-06
+converged in 3 iters!
+residual = 30448.3
+Finished STEP = 664
+
+TIMESTEP=665 TIME=2.22864e-06
+converged in 3 iters!
+residual = 30477.9
+Finished STEP = 665
+
+TIMESTEP=666 TIME=2.23199e-06
+converged in 3 iters!
+residual = 30507.4
+Finished STEP = 666
+
+TIMESTEP=667 TIME=2.23534e-06
+converged in 3 iters!
+residual = 30536.9
+Finished STEP = 667
+
+TIMESTEP=668 TIME=2.23869e-06
+converged in 3 iters!
+residual = 30566.4
+Finished STEP = 668
+
+TIMESTEP=669 TIME=2.24204e-06
+converged in 3 iters!
+residual = 30595.9
+Finished STEP = 669
+
+TIMESTEP=670 TIME=2.24539e-06
+converged in 3 iters!
+residual = 30625.2
+Finished STEP = 670
+
+TIMESTEP=671 TIME=2.24874e-06
+converged in 3 iters!
+residual = 30654.6
+Finished STEP = 671
+
+TIMESTEP=672 TIME=2.2521e-06
+converged in 3 iters!
+residual = 30683.9
+Finished STEP = 672
+
+TIMESTEP=673 TIME=2.25545e-06
+converged in 3 iters!
+residual = 30713.2
+Finished STEP = 673
+
+TIMESTEP=674 TIME=2.2588e-06
+converged in 3 iters!
+residual = 30742.4
+Finished STEP = 674
+
+TIMESTEP=675 TIME=2.26215e-06
+converged in 3 iters!
+residual = 30771.6
+Finished STEP = 675
+
+TIMESTEP=676 TIME=2.2655e-06
+converged in 3 iters!
+residual = 30800.8
+Finished STEP = 676
+
+TIMESTEP=677 TIME=2.26885e-06
+converged in 3 iters!
+residual = 30829.9
+Finished STEP = 677
+
+TIMESTEP=678 TIME=2.2722e-06
+converged in 3 iters!
+residual = 30858.9
+Finished STEP = 678
+
+TIMESTEP=679 TIME=2.27555e-06
+converged in 3 iters!
+residual = 30888
+Finished STEP = 679
+
+TIMESTEP=680 TIME=2.27891e-06
+converged in 3 iters!
+residual = 30917
+Finished STEP = 680
+
+TIMESTEP=681 TIME=2.28226e-06
+converged in 3 iters!
+residual = 30945.9
+Finished STEP = 681
+
+TIMESTEP=682 TIME=2.28561e-06
+converged in 3 iters!
+residual = 30974.8
+Finished STEP = 682
+
+TIMESTEP=683 TIME=2.28896e-06
+converged in 3 iters!
+residual = 31003.7
+Finished STEP = 683
+
+TIMESTEP=684 TIME=2.29231e-06
+converged in 3 iters!
+residual = 31032.5
+Finished STEP = 684
+
+TIMESTEP=685 TIME=2.29566e-06
+converged in 3 iters!
+residual = 31061.3
+Finished STEP = 685
+
+TIMESTEP=686 TIME=2.29901e-06
+converged in 3 iters!
+residual = 31090.1
+Finished STEP = 686
+
+TIMESTEP=687 TIME=2.30237e-06
+converged in 3 iters!
+residual = 31118.8
+Finished STEP = 687
+
+TIMESTEP=688 TIME=2.30572e-06
+converged in 3 iters!
+residual = 31147.5
+Finished STEP = 688
+
+TIMESTEP=689 TIME=2.30907e-06
+converged in 3 iters!
+residual = 31176.1
+Finished STEP = 689
+
+TIMESTEP=690 TIME=2.31242e-06
+converged in 3 iters!
+residual = 31204.7
+Finished STEP = 690
+
+TIMESTEP=691 TIME=2.31577e-06
+converged in 3 iters!
+residual = 31233.3
+Finished STEP = 691
+
+TIMESTEP=692 TIME=2.31912e-06
+converged in 3 iters!
+residual = 31261.8
+Finished STEP = 692
+
+TIMESTEP=693 TIME=2.32247e-06
+converged in 3 iters!
+residual = 31290.2
+Finished STEP = 693
+
+TIMESTEP=694 TIME=2.32582e-06
+converged in 3 iters!
+residual = 31318.7
+Finished STEP = 694
+
+TIMESTEP=695 TIME=2.32918e-06
+converged in 3 iters!
+residual = 31347.1
+Finished STEP = 695
+
+TIMESTEP=696 TIME=2.33253e-06
+converged in 3 iters!
+residual = 31375.4
+Finished STEP = 696
+
+TIMESTEP=697 TIME=2.33588e-06
+converged in 3 iters!
+residual = 31403.8
+Finished STEP = 697
+
+TIMESTEP=698 TIME=2.33923e-06
+converged in 3 iters!
+residual = 31432
+Finished STEP = 698
+
+TIMESTEP=699 TIME=2.34258e-06
+converged in 3 iters!
+residual = 31460.3
+Finished STEP = 699
+
+TIMESTEP=700 TIME=2.34593e-06
+converged in 3 iters!
+residual = 31488.5
+Finished STEP = 700
+
+TIMESTEP=701 TIME=2.34928e-06
+converged in 3 iters!
+residual = 31516.6
+Finished STEP = 701
+
+TIMESTEP=702 TIME=2.35264e-06
+converged in 3 iters!
+residual = 31544.8
+Finished STEP = 702
+
+TIMESTEP=703 TIME=2.35599e-06
+converged in 3 iters!
+residual = 31572.8
+Finished STEP = 703
+
+TIMESTEP=704 TIME=2.35934e-06
+converged in 3 iters!
+residual = 31600.9
+Finished STEP = 704
+
+TIMESTEP=705 TIME=2.36269e-06
+converged in 3 iters!
+residual = 31628.9
+Finished STEP = 705
+
+TIMESTEP=706 TIME=2.36604e-06
+converged in 3 iters!
+residual = 31656.9
+Finished STEP = 706
+
+TIMESTEP=707 TIME=2.36939e-06
+converged in 3 iters!
+residual = 31684.8
+Finished STEP = 707
+
+TIMESTEP=708 TIME=2.37274e-06
+converged in 3 iters!
+residual = 31712.7
+Finished STEP = 708
+
+TIMESTEP=709 TIME=2.37609e-06
+converged in 3 iters!
+residual = 31740.5
+Finished STEP = 709
+
+TIMESTEP=710 TIME=2.37945e-06
+converged in 3 iters!
+residual = 31768.3
+Finished STEP = 710
+
+TIMESTEP=711 TIME=2.3828e-06
+converged in 3 iters!
+residual = 31796.1
+Finished STEP = 711
+
+TIMESTEP=712 TIME=2.38615e-06
+converged in 3 iters!
+residual = 31823.8
+Finished STEP = 712
+
+TIMESTEP=713 TIME=2.3895e-06
+converged in 3 iters!
+residual = 31851.5
+Finished STEP = 713
+
+TIMESTEP=714 TIME=2.39285e-06
+converged in 3 iters!
+residual = 31879.2
+Finished STEP = 714
+
+TIMESTEP=715 TIME=2.3962e-06
+converged in 3 iters!
+residual = 31906.8
+Finished STEP = 715
+
+TIMESTEP=716 TIME=2.39955e-06
+converged in 3 iters!
+residual = 31934.4
+Finished STEP = 716
+
+TIMESTEP=717 TIME=2.40291e-06
+converged in 3 iters!
+residual = 31961.9
+Finished STEP = 717
+
+TIMESTEP=718 TIME=2.40626e-06
+converged in 3 iters!
+residual = 31989.4
+Finished STEP = 718
+
+TIMESTEP=719 TIME=2.40961e-06
+converged in 3 iters!
+residual = 32016.9
+Finished STEP = 719
+
+TIMESTEP=720 TIME=2.41296e-06
+converged in 3 iters!
+residual = 32044.3
+Finished STEP = 720
+
+TIMESTEP=721 TIME=2.41631e-06
+converged in 3 iters!
+residual = 32071.7
+Finished STEP = 721
+
+TIMESTEP=722 TIME=2.41966e-06
+converged in 3 iters!
+residual = 32099
+Finished STEP = 722
+
+TIMESTEP=723 TIME=2.42301e-06
+converged in 3 iters!
+residual = 32126.3
+Finished STEP = 723
+
+TIMESTEP=724 TIME=2.42636e-06
+converged in 3 iters!
+residual = 32153.6
+Finished STEP = 724
+
+TIMESTEP=725 TIME=2.42972e-06
+converged in 3 iters!
+residual = 32180.8
+Finished STEP = 725
+
+TIMESTEP=726 TIME=2.43307e-06
+converged in 3 iters!
+residual = 32208
+Finished STEP = 726
+
+TIMESTEP=727 TIME=2.43642e-06
+converged in 3 iters!
+residual = 32235.2
+Finished STEP = 727
+
+TIMESTEP=728 TIME=2.43977e-06
+converged in 3 iters!
+residual = 32262.3
+Finished STEP = 728
+
+TIMESTEP=729 TIME=2.44312e-06
+converged in 3 iters!
+residual = 32289.3
+Finished STEP = 729
+
+TIMESTEP=730 TIME=2.44647e-06
+converged in 3 iters!
+residual = 32316.4
+Finished STEP = 730
+
+TIMESTEP=731 TIME=2.44982e-06
+converged in 3 iters!
+residual = 32343.4
+Finished STEP = 731
+
+TIMESTEP=732 TIME=2.45318e-06
+converged in 3 iters!
+residual = 32370.3
+Finished STEP = 732
+
+TIMESTEP=733 TIME=2.45653e-06
+converged in 3 iters!
+residual = 32397.3
+Finished STEP = 733
+
+TIMESTEP=734 TIME=2.45988e-06
+converged in 3 iters!
+residual = 32424.1
+Finished STEP = 734
+
+TIMESTEP=735 TIME=2.46323e-06
+converged in 3 iters!
+residual = 32451
+Finished STEP = 735
+
+TIMESTEP=736 TIME=2.46658e-06
+converged in 3 iters!
+residual = 32477.8
+Finished STEP = 736
+
+TIMESTEP=737 TIME=2.46993e-06
+converged in 3 iters!
+residual = 32504.6
+Finished STEP = 737
+
+TIMESTEP=738 TIME=2.47328e-06
+converged in 3 iters!
+residual = 32531.3
+Finished STEP = 738
+
+TIMESTEP=739 TIME=2.47663e-06
+converged in 3 iters!
+residual = 32558
+Finished STEP = 739
+
+TIMESTEP=740 TIME=2.47999e-06
+converged in 3 iters!
+residual = 32584.6
+Finished STEP = 740
+
+TIMESTEP=741 TIME=2.48334e-06
+converged in 3 iters!
+residual = 32611.3
+Finished STEP = 741
+
+TIMESTEP=742 TIME=2.48669e-06
+converged in 3 iters!
+residual = 32637.8
+Finished STEP = 742
+
+TIMESTEP=743 TIME=2.49004e-06
+converged in 3 iters!
+residual = 32664.4
+Finished STEP = 743
+
+TIMESTEP=744 TIME=2.49339e-06
+converged in 3 iters!
+residual = 32690.9
+Finished STEP = 744
+
+TIMESTEP=745 TIME=2.49674e-06
+converged in 3 iters!
+residual = 32717.3
+Finished STEP = 745
+
+TIMESTEP=746 TIME=2.50009e-06
+converged in 3 iters!
+residual = 32743.8
+Finished STEP = 746
+
+TIMESTEP=747 TIME=2.50345e-06
+converged in 3 iters!
+residual = 32770.2
+Finished STEP = 747
+
+TIMESTEP=748 TIME=2.5068e-06
+converged in 3 iters!
+residual = 32796.5
+Finished STEP = 748
+
+TIMESTEP=749 TIME=2.51015e-06
+converged in 3 iters!
+residual = 32822.8
+Finished STEP = 749
+
+TIMESTEP=750 TIME=2.5135e-06
+converged in 3 iters!
+residual = 32849.1
+Finished STEP = 750
+
+TIMESTEP=751 TIME=2.51685e-06
+converged in 3 iters!
+residual = 32875.3
+Finished STEP = 751
+
+TIMESTEP=752 TIME=2.5202e-06
+converged in 3 iters!
+residual = 32901.5
+Finished STEP = 752
+
+TIMESTEP=753 TIME=2.52355e-06
+converged in 3 iters!
+residual = 32927.7
+Finished STEP = 753
+
+TIMESTEP=754 TIME=2.5269e-06
+converged in 3 iters!
+residual = 32953.8
+Finished STEP = 754
+
+TIMESTEP=755 TIME=2.53026e-06
+converged in 3 iters!
+residual = 32979.9
+Finished STEP = 755
+
+TIMESTEP=756 TIME=2.53361e-06
+converged in 3 iters!
+residual = 33006
+Finished STEP = 756
+
+TIMESTEP=757 TIME=2.53696e-06
+converged in 3 iters!
+residual = 33032
+Finished STEP = 757
+
+TIMESTEP=758 TIME=2.54031e-06
+converged in 3 iters!
+residual = 33057.9
+Finished STEP = 758
+
+TIMESTEP=759 TIME=2.54366e-06
+converged in 3 iters!
+residual = 33083.9
+Finished STEP = 759
+
+TIMESTEP=760 TIME=2.54701e-06
+converged in 3 iters!
+residual = 33109.8
+Finished STEP = 760
+
+TIMESTEP=761 TIME=2.55036e-06
+converged in 3 iters!
+residual = 33135.6
+Finished STEP = 761
+
+TIMESTEP=762 TIME=2.55372e-06
+converged in 3 iters!
+residual = 33161.5
+Finished STEP = 762
+
+TIMESTEP=763 TIME=2.55707e-06
+converged in 3 iters!
+residual = 33187.3
+Finished STEP = 763
+
+TIMESTEP=764 TIME=2.56042e-06
+converged in 3 iters!
+residual = 33213
+Finished STEP = 764
+
+TIMESTEP=765 TIME=2.56377e-06
+converged in 3 iters!
+residual = 33238.7
+Finished STEP = 765
+
+TIMESTEP=766 TIME=2.56712e-06
+converged in 3 iters!
+residual = 33264.4
+Finished STEP = 766
+
+TIMESTEP=767 TIME=2.57047e-06
+converged in 3 iters!
+residual = 33290
+Finished STEP = 767
+
+TIMESTEP=768 TIME=2.57382e-06
+converged in 3 iters!
+residual = 33315.6
+Finished STEP = 768
+
+TIMESTEP=769 TIME=2.57717e-06
+converged in 3 iters!
+residual = 33341.2
+Finished STEP = 769
+
+TIMESTEP=770 TIME=2.58053e-06
+converged in 3 iters!
+residual = 33366.7
+Finished STEP = 770
+
+TIMESTEP=771 TIME=2.58388e-06
+converged in 3 iters!
+residual = 33392.2
+Finished STEP = 771
+
+TIMESTEP=772 TIME=2.58723e-06
+converged in 3 iters!
+residual = 33417.7
+Finished STEP = 772
+
+TIMESTEP=773 TIME=2.59058e-06
+converged in 3 iters!
+residual = 33443.1
+Finished STEP = 773
+
+TIMESTEP=774 TIME=2.59393e-06
+converged in 3 iters!
+residual = 33468.4
+Finished STEP = 774
+
+TIMESTEP=775 TIME=2.59728e-06
+converged in 3 iters!
+residual = 33493.8
+Finished STEP = 775
+
+TIMESTEP=776 TIME=2.60063e-06
+converged in 3 iters!
+residual = 33519.1
+Finished STEP = 776
+
+TIMESTEP=777 TIME=2.60399e-06
+converged in 3 iters!
+residual = 33544.4
+Finished STEP = 777
+
+TIMESTEP=778 TIME=2.60734e-06
+converged in 3 iters!
+residual = 33569.6
+Finished STEP = 778
+
+TIMESTEP=779 TIME=2.61069e-06
+converged in 3 iters!
+residual = 33594.8
+Finished STEP = 779
+
+TIMESTEP=780 TIME=2.61404e-06
+converged in 3 iters!
+residual = 33619.9
+Finished STEP = 780
+
+TIMESTEP=781 TIME=2.61739e-06
+converged in 3 iters!
+residual = 33645.1
+Finished STEP = 781
+
+TIMESTEP=782 TIME=2.62074e-06
+converged in 3 iters!
+residual = 33670.1
+Finished STEP = 782
+
+TIMESTEP=783 TIME=2.62409e-06
+converged in 3 iters!
+residual = 33695.2
+Finished STEP = 783
+
+TIMESTEP=784 TIME=2.62744e-06
+converged in 3 iters!
+residual = 33720.2
+Finished STEP = 784
+
+TIMESTEP=785 TIME=2.6308e-06
+converged in 3 iters!
+residual = 33745.2
+Finished STEP = 785
+
+TIMESTEP=786 TIME=2.63415e-06
+converged in 3 iters!
+residual = 33770.1
+Finished STEP = 786
+
+TIMESTEP=787 TIME=2.6375e-06
+converged in 3 iters!
+residual = 33795
+Finished STEP = 787
+
+TIMESTEP=788 TIME=2.64085e-06
+converged in 3 iters!
+residual = 33819.9
+Finished STEP = 788
+
+TIMESTEP=789 TIME=2.6442e-06
+converged in 3 iters!
+residual = 33844.7
+Finished STEP = 789
+
+TIMESTEP=790 TIME=2.64755e-06
+converged in 3 iters!
+residual = 33869.5
+Finished STEP = 790
+
+TIMESTEP=791 TIME=2.6509e-06
+converged in 3 iters!
+residual = 33894.2
+Finished STEP = 791
+
+TIMESTEP=792 TIME=2.65426e-06
+converged in 3 iters!
+residual = 33918.9
+Finished STEP = 792
+
+TIMESTEP=793 TIME=2.65761e-06
+converged in 3 iters!
+residual = 33943.6
+Finished STEP = 793
+
+TIMESTEP=794 TIME=2.66096e-06
+converged in 3 iters!
+residual = 33968.3
+Finished STEP = 794
+
+TIMESTEP=795 TIME=2.66431e-06
+converged in 3 iters!
+residual = 33992.9
+Finished STEP = 795
+
+TIMESTEP=796 TIME=2.66766e-06
+converged in 3 iters!
+residual = 34017.4
+Finished STEP = 796
+
+TIMESTEP=797 TIME=2.67101e-06
+converged in 3 iters!
+residual = 34042
+Finished STEP = 797
+
+TIMESTEP=798 TIME=2.67436e-06
+converged in 3 iters!
+residual = 34066.5
+Finished STEP = 798
+
+TIMESTEP=799 TIME=2.67771e-06
+converged in 3 iters!
+residual = 34090.9
+Finished STEP = 799
+
+TIMESTEP=800 TIME=2.68107e-06
+converged in 3 iters!
+residual = 34115.3
+Finished STEP = 800
+
+TIMESTEP=801 TIME=2.68442e-06
+converged in 3 iters!
+residual = 34139.7
+Finished STEP = 801
+
+TIMESTEP=802 TIME=2.68777e-06
+converged in 3 iters!
+residual = 34164.1
+Finished STEP = 802
+
+TIMESTEP=803 TIME=2.69112e-06
+converged in 3 iters!
+residual = 34188.4
+Finished STEP = 803
+
+TIMESTEP=804 TIME=2.69447e-06
+converged in 3 iters!
+residual = 34212.7
+Finished STEP = 804
+
+TIMESTEP=805 TIME=2.69782e-06
+converged in 3 iters!
+residual = 34236.9
+Finished STEP = 805
+
+TIMESTEP=806 TIME=2.70117e-06
+converged in 3 iters!
+residual = 34261.1
+Finished STEP = 806
+
+TIMESTEP=807 TIME=2.70453e-06
+converged in 3 iters!
+residual = 34285.3
+Finished STEP = 807
+
+TIMESTEP=808 TIME=2.70788e-06
+converged in 3 iters!
+residual = 34309.4
+Finished STEP = 808
+
+TIMESTEP=809 TIME=2.71123e-06
+converged in 3 iters!
+residual = 34333.5
+Finished STEP = 809
+
+TIMESTEP=810 TIME=2.71458e-06
+converged in 3 iters!
+residual = 34357.6
+Finished STEP = 810
+
+TIMESTEP=811 TIME=2.71793e-06
+converged in 3 iters!
+residual = 34381.6
+Finished STEP = 811
+
+TIMESTEP=812 TIME=2.72128e-06
+converged in 3 iters!
+residual = 34405.6
+Finished STEP = 812
+
+TIMESTEP=813 TIME=2.72463e-06
+converged in 3 iters!
+residual = 34429.6
+Finished STEP = 813
+
+TIMESTEP=814 TIME=2.72798e-06
+converged in 3 iters!
+residual = 34453.5
+Finished STEP = 814
+
+TIMESTEP=815 TIME=2.73134e-06
+converged in 3 iters!
+residual = 34477.4
+Finished STEP = 815
+
+TIMESTEP=816 TIME=2.73469e-06
+converged in 3 iters!
+residual = 34501.2
+Finished STEP = 816
+
+TIMESTEP=817 TIME=2.73804e-06
+converged in 3 iters!
+residual = 34525
+Finished STEP = 817
+
+TIMESTEP=818 TIME=2.74139e-06
+converged in 3 iters!
+residual = 34548.8
+Finished STEP = 818
+
+TIMESTEP=819 TIME=2.74474e-06
+converged in 3 iters!
+residual = 34572.5
+Finished STEP = 819
+
+TIMESTEP=820 TIME=2.74809e-06
+converged in 3 iters!
+residual = 34596.2
+Finished STEP = 820
+
+TIMESTEP=821 TIME=2.75144e-06
+converged in 3 iters!
+residual = 34619.9
+Finished STEP = 821
+
+TIMESTEP=822 TIME=2.7548e-06
+converged in 3 iters!
+residual = 34643.5
+Finished STEP = 822
+
+TIMESTEP=823 TIME=2.75815e-06
+converged in 3 iters!
+residual = 34667.1
+Finished STEP = 823
+
+TIMESTEP=824 TIME=2.7615e-06
+converged in 3 iters!
+residual = 34690.7
+Finished STEP = 824
+
+TIMESTEP=825 TIME=2.76485e-06
+converged in 3 iters!
+residual = 34714.2
+Finished STEP = 825
+
+TIMESTEP=826 TIME=2.7682e-06
+converged in 3 iters!
+residual = 34737.7
+Finished STEP = 826
+
+TIMESTEP=827 TIME=2.77155e-06
+converged in 3 iters!
+residual = 34761.1
+Finished STEP = 827
+
+TIMESTEP=828 TIME=2.7749e-06
+converged in 3 iters!
+residual = 34784.6
+Finished STEP = 828
+
+TIMESTEP=829 TIME=2.77825e-06
+converged in 3 iters!
+residual = 34807.9
+Finished STEP = 829
+
+TIMESTEP=830 TIME=2.78161e-06
+converged in 3 iters!
+residual = 34831.3
+Finished STEP = 830
+
+TIMESTEP=831 TIME=2.78496e-06
+converged in 3 iters!
+residual = 34854.6
+Finished STEP = 831
+
+TIMESTEP=832 TIME=2.78831e-06
+converged in 3 iters!
+residual = 34877.9
+Finished STEP = 832
+
+TIMESTEP=833 TIME=2.79166e-06
+converged in 3 iters!
+residual = 34901.1
+Finished STEP = 833
+
+TIMESTEP=834 TIME=2.79501e-06
+converged in 3 iters!
+residual = 34924.3
+Finished STEP = 834
+
+TIMESTEP=835 TIME=2.79836e-06
+converged in 3 iters!
+residual = 34947.5
+Finished STEP = 835
+
+TIMESTEP=836 TIME=2.80171e-06
+converged in 3 iters!
+residual = 34970.6
+Finished STEP = 836
+
+TIMESTEP=837 TIME=2.80507e-06
+converged in 3 iters!
+residual = 34993.7
+Finished STEP = 837
+
+TIMESTEP=838 TIME=2.80842e-06
+converged in 3 iters!
+residual = 35016.8
+Finished STEP = 838
+
+TIMESTEP=839 TIME=2.81177e-06
+converged in 3 iters!
+residual = 35039.8
+Finished STEP = 839
+
+TIMESTEP=840 TIME=2.81512e-06
+converged in 3 iters!
+residual = 35062.8
+Finished STEP = 840
+
+TIMESTEP=841 TIME=2.81847e-06
+converged in 3 iters!
+residual = 35085.8
+Finished STEP = 841
+
+TIMESTEP=842 TIME=2.82182e-06
+converged in 3 iters!
+residual = 35108.7
+Finished STEP = 842
+
+TIMESTEP=843 TIME=2.82517e-06
+converged in 3 iters!
+residual = 35131.6
+Finished STEP = 843
+
+TIMESTEP=844 TIME=2.82852e-06
+converged in 3 iters!
+residual = 35154.4
+Finished STEP = 844
+
+TIMESTEP=845 TIME=2.83188e-06
+converged in 3 iters!
+residual = 35177.2
+Finished STEP = 845
+
+TIMESTEP=846 TIME=2.83523e-06
+converged in 3 iters!
+residual = 35200
+Finished STEP = 846
+
+TIMESTEP=847 TIME=2.83858e-06
+converged in 3 iters!
+residual = 35222.8
+Finished STEP = 847
+
+TIMESTEP=848 TIME=2.84193e-06
+converged in 3 iters!
+residual = 35245.5
+Finished STEP = 848
+
+TIMESTEP=849 TIME=2.84528e-06
+converged in 3 iters!
+residual = 35268.1
+Finished STEP = 849
+
+TIMESTEP=850 TIME=2.84863e-06
+converged in 3 iters!
+residual = 35290.8
+Finished STEP = 850
+
+TIMESTEP=851 TIME=2.85198e-06
+converged in 3 iters!
+residual = 35313.4
+Finished STEP = 851
+
+TIMESTEP=852 TIME=2.85534e-06
+converged in 3 iters!
+residual = 35336
+Finished STEP = 852
+
+TIMESTEP=853 TIME=2.85869e-06
+converged in 3 iters!
+residual = 35358.5
+Finished STEP = 853
+
+TIMESTEP=854 TIME=2.86204e-06
+converged in 3 iters!
+residual = 35381
+Finished STEP = 854
+
+TIMESTEP=855 TIME=2.86539e-06
+converged in 3 iters!
+residual = 35403.5
+Finished STEP = 855
+
+TIMESTEP=856 TIME=2.86874e-06
+converged in 3 iters!
+residual = 35425.9
+Finished STEP = 856
+
+TIMESTEP=857 TIME=2.87209e-06
+converged in 3 iters!
+residual = 35448.3
+Finished STEP = 857
+
+TIMESTEP=858 TIME=2.87544e-06
+converged in 3 iters!
+residual = 35470.7
+Finished STEP = 858
+
+TIMESTEP=859 TIME=2.87879e-06
+converged in 3 iters!
+residual = 35493
+Finished STEP = 859
+
+TIMESTEP=860 TIME=2.88215e-06
+converged in 3 iters!
+residual = 35515.3
+Finished STEP = 860
+
+TIMESTEP=861 TIME=2.8855e-06
+converged in 3 iters!
+residual = 35537.5
+Finished STEP = 861
+
+TIMESTEP=862 TIME=2.88885e-06
+converged in 3 iters!
+residual = 35559.8
+Finished STEP = 862
+
+TIMESTEP=863 TIME=2.8922e-06
+converged in 3 iters!
+residual = 35582
+Finished STEP = 863
+
+TIMESTEP=864 TIME=2.89555e-06
+converged in 3 iters!
+residual = 35604.1
+Finished STEP = 864
+
+TIMESTEP=865 TIME=2.8989e-06
+converged in 3 iters!
+residual = 35626.2
+Finished STEP = 865
+
+TIMESTEP=866 TIME=2.90225e-06
+converged in 3 iters!
+residual = 35648.3
+Finished STEP = 866
+
+TIMESTEP=867 TIME=2.90561e-06
+converged in 3 iters!
+residual = 35670.4
+Finished STEP = 867
+
+TIMESTEP=868 TIME=2.90896e-06
+converged in 3 iters!
+residual = 35692.4
+Finished STEP = 868
+
+TIMESTEP=869 TIME=2.91231e-06
+converged in 3 iters!
+residual = 35714.4
+Finished STEP = 869
+
+TIMESTEP=870 TIME=2.91566e-06
+converged in 3 iters!
+residual = 35736.3
+Finished STEP = 870
+
+TIMESTEP=871 TIME=2.91901e-06
+converged in 3 iters!
+residual = 35758.2
+Finished STEP = 871
+
+TIMESTEP=872 TIME=2.92236e-06
+converged in 3 iters!
+residual = 35780.1
+Finished STEP = 872
+
+TIMESTEP=873 TIME=2.92571e-06
+converged in 3 iters!
+residual = 35801.9
+Finished STEP = 873
+
+TIMESTEP=874 TIME=2.92906e-06
+converged in 3 iters!
+residual = 35823.8
+Finished STEP = 874
+
+TIMESTEP=875 TIME=2.93242e-06
+converged in 3 iters!
+residual = 35845.5
+Finished STEP = 875
+
+TIMESTEP=876 TIME=2.93577e-06
+converged in 3 iters!
+residual = 35867.3
+Finished STEP = 876
+
+TIMESTEP=877 TIME=2.93912e-06
+converged in 3 iters!
+residual = 35889
+Finished STEP = 877
+
+TIMESTEP=878 TIME=2.94247e-06
+converged in 3 iters!
+residual = 35910.7
+Finished STEP = 878
+
+TIMESTEP=879 TIME=2.94582e-06
+converged in 3 iters!
+residual = 35932.3
+Finished STEP = 879
+
+TIMESTEP=880 TIME=2.94917e-06
+converged in 3 iters!
+residual = 35953.9
+Finished STEP = 880
+
+TIMESTEP=881 TIME=2.95252e-06
+converged in 3 iters!
+residual = 35975.5
+Finished STEP = 881
+
+TIMESTEP=882 TIME=2.95588e-06
+converged in 3 iters!
+residual = 35997
+Finished STEP = 882
+
+TIMESTEP=883 TIME=2.95923e-06
+converged in 3 iters!
+residual = 36018.5
+Finished STEP = 883
+
+TIMESTEP=884 TIME=2.96258e-06
+converged in 3 iters!
+residual = 36040
+Finished STEP = 884
+
+TIMESTEP=885 TIME=2.96593e-06
+converged in 3 iters!
+residual = 36061.4
+Finished STEP = 885
+
+TIMESTEP=886 TIME=2.96928e-06
+converged in 3 iters!
+residual = 36082.8
+Finished STEP = 886
+
+TIMESTEP=887 TIME=2.97263e-06
+converged in 3 iters!
+residual = 36104.2
+Finished STEP = 887
+
+TIMESTEP=888 TIME=2.97598e-06
+converged in 3 iters!
+residual = 36125.5
+Finished STEP = 888
+
+TIMESTEP=889 TIME=2.97933e-06
+converged in 3 iters!
+residual = 36146.8
+Finished STEP = 889
+
+TIMESTEP=890 TIME=2.98269e-06
+converged in 3 iters!
+residual = 36168.1
+Finished STEP = 890
+
+TIMESTEP=891 TIME=2.98604e-06
+converged in 3 iters!
+residual = 36189.3
+Finished STEP = 891
+
+TIMESTEP=892 TIME=2.98939e-06
+converged in 3 iters!
+residual = 36210.5
+Finished STEP = 892
+
+TIMESTEP=893 TIME=2.99274e-06
+converged in 3 iters!
+residual = 36231.6
+Finished STEP = 893
+
+TIMESTEP=894 TIME=2.99609e-06
+converged in 3 iters!
+residual = 36252.8
+Finished STEP = 894
+
+TIMESTEP=895 TIME=2.99944e-06
+converged in 3 iters!
+residual = 36273.9
+Finished STEP = 895
+
+TIMESTEP=896 TIME=3.00279e-06
+converged in 3 iters!
+residual = 36294.9
+Finished STEP = 896
+
+TIMESTEP=897 TIME=3.00615e-06
+converged in 3 iters!
+residual = 36316
+Finished STEP = 897
+
+TIMESTEP=898 TIME=3.0095e-06
+converged in 3 iters!
+residual = 36337
+Finished STEP = 898
+
+TIMESTEP=899 TIME=3.01285e-06
+converged in 3 iters!
+residual = 36357.9
+Finished STEP = 899
+
+TIMESTEP=900 TIME=3.0162e-06
+converged in 3 iters!
+residual = 36378.8
+Finished STEP = 900
+
+TIMESTEP=901 TIME=3.01955e-06
+converged in 3 iters!
+residual = 36399.7
+Finished STEP = 901
+
+TIMESTEP=902 TIME=3.0229e-06
+converged in 3 iters!
+residual = 36420.6
+Finished STEP = 902
+
+TIMESTEP=903 TIME=3.02625e-06
+converged in 3 iters!
+residual = 36441.4
+Finished STEP = 903
+
+TIMESTEP=904 TIME=3.0296e-06
+converged in 3 iters!
+residual = 36462.2
+Finished STEP = 904
+
+TIMESTEP=905 TIME=3.03296e-06
+converged in 3 iters!
+residual = 36483
+Finished STEP = 905
+
+TIMESTEP=906 TIME=3.03631e-06
+converged in 3 iters!
+residual = 36503.7
+Finished STEP = 906
+
+TIMESTEP=907 TIME=3.03966e-06
+converged in 3 iters!
+residual = 36524.4
+Finished STEP = 907
+
+TIMESTEP=908 TIME=3.04301e-06
+converged in 3 iters!
+residual = 36545
+Finished STEP = 908
+
+TIMESTEP=909 TIME=3.04636e-06
+converged in 3 iters!
+residual = 36565.7
+Finished STEP = 909
+
+TIMESTEP=910 TIME=3.04971e-06
+converged in 3 iters!
+residual = 36586.2
+Finished STEP = 910
+
+TIMESTEP=911 TIME=3.05306e-06
+converged in 3 iters!
+residual = 36606.8
+Finished STEP = 911
+
+TIMESTEP=912 TIME=3.05642e-06
+converged in 3 iters!
+residual = 36627.3
+Finished STEP = 912
+
+TIMESTEP=913 TIME=3.05977e-06
+converged in 3 iters!
+residual = 36647.8
+Finished STEP = 913
+
+TIMESTEP=914 TIME=3.06312e-06
+converged in 3 iters!
+residual = 36668.3
+Finished STEP = 914
+
+TIMESTEP=915 TIME=3.06647e-06
+converged in 3 iters!
+residual = 36688.7
+Finished STEP = 915
+
+TIMESTEP=916 TIME=3.06982e-06
+converged in 3 iters!
+residual = 36709.1
+Finished STEP = 916
+
+TIMESTEP=917 TIME=3.07317e-06
+converged in 3 iters!
+residual = 36729.4
+Finished STEP = 917
+
+TIMESTEP=918 TIME=3.07652e-06
+converged in 3 iters!
+residual = 36749.8
+Finished STEP = 918
+
+TIMESTEP=919 TIME=3.07987e-06
+converged in 3 iters!
+residual = 36770.1
+Finished STEP = 919
+
+TIMESTEP=920 TIME=3.08323e-06
+converged in 3 iters!
+residual = 36790.3
+Finished STEP = 920
+
+TIMESTEP=921 TIME=3.08658e-06
+converged in 3 iters!
+residual = 36810.5
+Finished STEP = 921
+
+TIMESTEP=922 TIME=3.08993e-06
+converged in 3 iters!
+residual = 36830.7
+Finished STEP = 922
+
+TIMESTEP=923 TIME=3.09328e-06
+converged in 3 iters!
+residual = 36850.9
+Finished STEP = 923
+
+TIMESTEP=924 TIME=3.09663e-06
+converged in 3 iters!
+residual = 36871
+Finished STEP = 924
+
+TIMESTEP=925 TIME=3.09998e-06
+converged in 3 iters!
+residual = 36891.1
+Finished STEP = 925
+
+TIMESTEP=926 TIME=3.10333e-06
+converged in 3 iters!
+residual = 36911.2
+Finished STEP = 926
+
+TIMESTEP=927 TIME=3.10669e-06
+converged in 3 iters!
+residual = 36931.2
+Finished STEP = 927
+
+TIMESTEP=928 TIME=3.11004e-06
+converged in 3 iters!
+residual = 36951.2
+Finished STEP = 928
+
+TIMESTEP=929 TIME=3.11339e-06
+converged in 3 iters!
+residual = 36971.1
+Finished STEP = 929
+
+TIMESTEP=930 TIME=3.11674e-06
+converged in 3 iters!
+residual = 36991.1
+Finished STEP = 930
+
+TIMESTEP=931 TIME=3.12009e-06
+converged in 3 iters!
+residual = 37011
+Finished STEP = 931
+
+TIMESTEP=932 TIME=3.12344e-06
+converged in 3 iters!
+residual = 37030.8
+Finished STEP = 932
+
+TIMESTEP=933 TIME=3.12679e-06
+converged in 3 iters!
+residual = 37050.6
+Finished STEP = 933
+
+TIMESTEP=934 TIME=3.13014e-06
+converged in 3 iters!
+residual = 37070.4
+Finished STEP = 934
+
+TIMESTEP=935 TIME=3.1335e-06
+converged in 3 iters!
+residual = 37090.2
+Finished STEP = 935
+
+TIMESTEP=936 TIME=3.13685e-06
+converged in 3 iters!
+residual = 37109.9
+Finished STEP = 936
+
+TIMESTEP=937 TIME=3.1402e-06
+converged in 3 iters!
+residual = 37129.6
+Finished STEP = 937
+
+TIMESTEP=938 TIME=3.14355e-06
+converged in 3 iters!
+residual = 37149.3
+Finished STEP = 938
+
+TIMESTEP=939 TIME=3.1469e-06
+converged in 3 iters!
+residual = 37168.9
+Finished STEP = 939
+
+TIMESTEP=940 TIME=3.15025e-06
+converged in 3 iters!
+residual = 37188.5
+Finished STEP = 940
+
+TIMESTEP=941 TIME=3.1536e-06
+converged in 3 iters!
+residual = 37208.1
+Finished STEP = 941
+
+TIMESTEP=942 TIME=3.15696e-06
+converged in 3 iters!
+residual = 37227.6
+Finished STEP = 942
+
+TIMESTEP=943 TIME=3.16031e-06
+converged in 3 iters!
+residual = 37247.1
+Finished STEP = 943
+
+TIMESTEP=944 TIME=3.16366e-06
+converged in 3 iters!
+residual = 37266.6
+Finished STEP = 944
+
+TIMESTEP=945 TIME=3.16701e-06
+converged in 3 iters!
+residual = 37286
+Finished STEP = 945
+
+TIMESTEP=946 TIME=3.17036e-06
+converged in 3 iters!
+residual = 37305.4
+Finished STEP = 946
+
+TIMESTEP=947 TIME=3.17371e-06
+converged in 3 iters!
+residual = 37324.8
+Finished STEP = 947
+
+TIMESTEP=948 TIME=3.17706e-06
+converged in 3 iters!
+residual = 37344.1
+Finished STEP = 948
+
+TIMESTEP=949 TIME=3.18041e-06
+converged in 3 iters!
+residual = 37363.4
+Finished STEP = 949
+
+TIMESTEP=950 TIME=3.18377e-06
+converged in 3 iters!
+residual = 37382.7
+Finished STEP = 950
+
+TIMESTEP=951 TIME=3.18712e-06
+converged in 3 iters!
+residual = 37401.9
+Finished STEP = 951
+
+TIMESTEP=952 TIME=3.19047e-06
+converged in 3 iters!
+residual = 37421.2
+Finished STEP = 952
+
+TIMESTEP=953 TIME=3.19382e-06
+converged in 3 iters!
+residual = 37440.3
+Finished STEP = 953
+
+TIMESTEP=954 TIME=3.19717e-06
+converged in 3 iters!
+residual = 37459.5
+Finished STEP = 954
+
+TIMESTEP=955 TIME=3.20052e-06
+converged in 3 iters!
+residual = 37478.6
+Finished STEP = 955
+
+TIMESTEP=956 TIME=3.20387e-06
+converged in 3 iters!
+residual = 37497.7
+Finished STEP = 956
+
+TIMESTEP=957 TIME=3.20723e-06
+converged in 3 iters!
+residual = 37516.7
+Finished STEP = 957
+
+TIMESTEP=958 TIME=3.21058e-06
+converged in 3 iters!
+residual = 37535.7
+Finished STEP = 958
+
+TIMESTEP=959 TIME=3.21393e-06
+converged in 3 iters!
+residual = 37554.7
+Finished STEP = 959
+
+TIMESTEP=960 TIME=3.21728e-06
+converged in 3 iters!
+residual = 37573.7
+Finished STEP = 960
+
+TIMESTEP=961 TIME=3.22063e-06
+converged in 3 iters!
+residual = 37592.6
+Finished STEP = 961
+
+TIMESTEP=962 TIME=3.22398e-06
+converged in 3 iters!
+residual = 37611.5
+Finished STEP = 962
+
+TIMESTEP=963 TIME=3.22733e-06
+converged in 3 iters!
+residual = 37630.3
+Finished STEP = 963
+
+TIMESTEP=964 TIME=3.23068e-06
+converged in 3 iters!
+residual = 37649.1
+Finished STEP = 964
+
+TIMESTEP=965 TIME=3.23404e-06
+converged in 3 iters!
+residual = 37667.9
+Finished STEP = 965
+
+TIMESTEP=966 TIME=3.23739e-06
+converged in 3 iters!
+residual = 37686.7
+Finished STEP = 966
+
+TIMESTEP=967 TIME=3.24074e-06
+converged in 3 iters!
+residual = 37705.4
+Finished STEP = 967
+
+TIMESTEP=968 TIME=3.24409e-06
+converged in 3 iters!
+residual = 37724.1
+Finished STEP = 968
+
+TIMESTEP=969 TIME=3.24744e-06
+converged in 3 iters!
+residual = 37742.8
+Finished STEP = 969
+
+TIMESTEP=970 TIME=3.25079e-06

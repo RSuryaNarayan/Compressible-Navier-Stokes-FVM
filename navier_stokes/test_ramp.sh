@@ -1,0 +1,1 @@
+make clean && make && ./gridGenRamp inp.ramp && ./readGrid inp.ramp &> results.txt
