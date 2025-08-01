@@ -1,0 +1,8 @@
+nx=50
+ny=25
+length=1.0
+inletHeight=0.25
+rampAngle = 15.0
+rampStart = 0.33
+rampEnd = 0.67
+gridFile = ramp.csv

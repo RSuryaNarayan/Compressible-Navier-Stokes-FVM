@@ -1,0 +1,43 @@
+ramp.csv
+
+ Number of faces = 2425
+ Number of faces successfully identified!
+
+ Number of cells = 1176
+Number of cells successfully identified
+dt = 2.03132e-08
+
+Starting k=1
+residual = 13150.9
+Finished STEP = 1
+Starting k=2
+residual = 13145
+Finished STEP = 2
+Starting k=3
+residual = 13139.1
+Finished STEP = 3
+Starting k=4
+residual = 13133.2
+Finished STEP = 4
+Starting k=5
+residual = 13127.2
+Finished STEP = 5
+Starting k=6
+residual = 13121.3
+Finished STEP = 6
+Starting k=7
+residual = 13115.4
+Finished STEP = 7
+Starting k=8
+residual = 13109.4
+Finished STEP = 8
+Starting k=9
+residual = 13103.5
+Finished STEP = 9
+Starting k=10
+residual = 13097.5
+Finished STEP = 10
+Residuals data written to residuals.csv
+Min Face Vector Sum: 0
+Max Face Vector Sum: 1.51995e-18
+Grid data written to ramp_cells.csv

@@ -1,0 +1,6 @@
+nx = 316
+ny = 325
+r_circle = 0.1
+r_x = 0.2
+r_y = 0.35
+gridFile = cylinder.csv
