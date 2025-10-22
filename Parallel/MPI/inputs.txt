@@ -1,0 +1,20 @@
+# ==================================
+# Input file for 1D Euler Solver
+# ==================================
+# - Lines starting with '#' are comments
+# - Order does not matter
+
+# --- Domain ---
+x0      0.0
+x1      1.0
+
+# --- Discretization ---
+N_total 100000
+
+# --- Time-stepping ---
+CFL     0.5
+t_final 0.2
+
+# --- I/O ---
+# Set to 0 or negative to disable output except at t=0
+t_output_interval 0.2

@@ -1,0 +1,19 @@
+--- Simulation Parameters ---
+  Domain:    [0, 1]
+  Cells:     100000
+  T_final:   0.2
+  CFL:       0.5
+  Output Int: 0.2
+-----------------------------
+  -> wrote solution_t0.00.dat
+  -> wrote solution_t0.20.dat
+
+================ TIMING REPORT ================
+  Cells:           100000
+  Ranks:           8
+  Steps:           87660
+  Final time:      0.2 s
+  Compute time:    101.416 s
+  Output time:     0.0989858 s
+  Total time:      114.965 s
+==============================================
